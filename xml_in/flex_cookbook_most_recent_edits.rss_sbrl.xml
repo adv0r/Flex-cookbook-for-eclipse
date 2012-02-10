@@ -1,0 +1,1814 @@
+<xml version = "2.0">
+<channel>
+
+
+
+<title>Adobe: Most recent Flex Cookbook edits</title>
+<link>http://rss.adobe.com/en/flex_cookbook_most_recent_edits.rss</link>
+<description>Most recent Flex cookbook edits</description>
+<language>en-us</language>
+<pubdate>Mon, 28 May 2007 21:01:51GMT</pubdate>
+
+
+
+
+
+<item>
+<visto>false</visto>
+<indice>148</indice>
+<title><![CDATA[Standard way to simplest  use of php (5) on server side]]></title>
+<author>riasol</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4801]]></link>
+<description><![CDATA[Using mx.rcp.http.HTTPService to exchange data with SS require some steps to configure, handle error, test. If I want use only simple calls and not use any prepared framework (like amfphp ) I want simple and easy to repeat solution.]]></description>
+<pubdate>Fri, 08 Jun 2007 15:38:41 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>147</indice>
+<title><![CDATA[Choosing a topic to write about for a Flex cookbook post (Updated 5/23/07)]]></title>
+<author>Amy Wong</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3801]]></link>
+<description><![CDATA[You'd like to contribute to the Flex cookbook, but don't know what to write about.]]></description>
+<pubdate>Wed, 30 May 2007 13:45:56 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>146</indice>
+<title><![CDATA[Cleaning Tag-based Content with a Regular Expression]]></title>
+<author>USawIt</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=1902]]></link>
+<description><![CDATA[Let's suppose that you have a data stream coming into your Flex application that contains some content with anchor tags, but you only want to use the link text - instead of &lt;a href =&quot;www.webmxml.com&quot;&gt; www.webmxml.com &lt;/a&gt;, you want this, www.webmxml.com.]]></description>
+<pubdate>Wed, 30 May 2007 13:40:17 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>145</indice>
+<title><![CDATA[Delaying state change in transitions]]></title>
+<author>SebastianCarlsson</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4822]]></link>
+<description><![CDATA[How do I delay the actual state change when using transitions?]]></description>
+<pubdate>Mon, 28 May 2007 07:51:13 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>144</indice>
+<title><![CDATA[PDF 2 SWF Conversion]]></title>
+<author>rlnarain</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4701]]></link>
+<description><![CDATA[Using PDF2SWF to convert files into Flash Player 9 files to load inside Flex application.]]></description>
+<pubdate>Wed, 23 May 2007 14:18:26 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>143</indice>
+<title><![CDATA[Removing the red border from control for the applied validation]]></title>
+<author>vijay khambalkar</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4781]]></link>
+<description><![CDATA[I had a TextInput, on which I applied string validation. If there is any error with input then Validator will dispach INVALID event while making the red border around the textInput. This red border does not get removed even if we set the Validator enabled property false.]]></description>
+<pubdate>Tue, 22 May 2007 01:03:03 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>142</indice>
+<title><![CDATA[How to determine which items are visible to the user in a datagrid]]></title>
+<author>thom67</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4741]]></link>
+<description><![CDATA[Sometimes it is necessary to know which items in a datagrid are currently visible to the user (that is, without the user having to scroll), or which item is currently the first or last item in the visible list.]]></description>
+<pubdate>Sun, 20 May 2007 10:43:22 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>141</indice>
+<title><![CDATA[How can I create New Rich Symbol Flex Components for Fireworks?]]></title>
+<author>pbaird_office</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4681]]></link>
+<description><![CDATA[Fireworks CS3 currently includes a set of &quot;Flex Component&quot; Rich Symbols that are great for wireframing Flex Apps, but do not include all of the Flex Components.]]></description>
+<pubdate>Fri, 18 May 2007 09:34:51 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>140</indice>
+<title><![CDATA[How to convert a string to a number]]></title>
+<author>Shongrunden</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4641]]></link>
+<description><![CDATA[You want to convert an input string into a number.]]></description>
+<pubdate>Thu, 17 May 2007 12:14:52 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>139</indice>
+<title><![CDATA[Flex 2 EzHTTPService Object]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4561]]></link>
+<description><![CDATA[HTTPService provides a useful interface for REST Web Services however asynchronous service calls can be difficult to validate and debug.]]></description>
+<pubdate>Mon, 14 May 2007 16:15:09 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>138</indice>
+<title><![CDATA[Flex 2 UIComponent Development Strategies]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4581]]></link>
+<description><![CDATA[How can you tell when you should code an MXML Component versus a UIComponent subclass and what if you just don't know enough about Flex to code a UIComponent subclass.]]></description>
+<pubdate>Mon, 14 May 2007 15:36:47 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>137</indice>
+<title><![CDATA[Flex 2 XML Reader Can Create UIComponents]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4582]]></link>
+<description><![CDATA[A funny thing happened on our way to the Bar one day...]]></description>
+<pubdate>Mon, 14 May 2007 15:27:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>136</indice>
+<title><![CDATA[How do you change the background cell color in a DataGrid?]]></title>
+<author>joan_lafferty</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=61]]></link>
+<description><![CDATA[Changing the background color of a DataGrid cell is not as simple as changing some style because the default renderer for a DataGrid cell does not have a backgroundColor. Therefore, to do this
+simple task, you have to create a custom itemRenderer where you draw your own background in the updateDisplayList function.]]></description>
+<pubdate>Sat, 12 May 2007 18:37:44 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>135</indice>
+<title><![CDATA[How do I create a Tree itemRenderer?]]></title>
+<author>joan_lafferty</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=62]]></link>
+<description><![CDATA[You cannot use a dropIn itemRenderer for Tree like you can for other List based components like DataGrid, TileList or List.]]></description>
+<pubdate>Sat, 12 May 2007 18:25:46 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>134</indice>
+<title><![CDATA[Flex 2 Applications and Bookmarking 201]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4521]]></link>
+<description><![CDATA[Our second installment in our evolving Bookmarking Saga for Flex 2.]]></description>
+<pubdate>Fri, 11 May 2007 16:02:02 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>133</indice>
+<title><![CDATA[Flex2 Applications and Bookmarking 301]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4541]]></link>
+<description><![CDATA[This is our third installment into the wonderful world of rich bookmarking for Flex2 apps.]]></description>
+<pubdate>Fri, 11 May 2007 08:10:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>132</indice>
+<title><![CDATA[Flex 2 Applications and Bookmarking 101]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4428]]></link>
+<description><![CDATA[How do you enable a Flex 2 Application to process bookmarks just like any traditional HTML Application ?]]></description>
+<pubdate>Thu, 10 May 2007 17:10:13 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>131</indice>
+<title><![CDATA[Cool text effect]]></title>
+<author>Cato Paus</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4441]]></link>
+<description><![CDATA[One solution making labels and  textArea like the effect in Need for Speed menu's]]></description>
+<pubdate>Tue, 08 May 2007 00:41:24 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>130</indice>
+<title><![CDATA[Custom Calendar Widget Development Experiences]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4429]]></link>
+<description><![CDATA[Develop a virtual Calendar widget for Flex2 as quickly as possible.]]></description>
+<pubdate>Tue, 08 May 2007 21:10:00 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>129</indice>
+<title><![CDATA[Dynamic RIA Content Delivery using Flex Builder 2.0.1]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4427]]></link>
+<description><![CDATA[Architect a method for delivering RIA Content based on Flash using Flex Builder 2.0.1]]></description>
+<pubdate>Tue, 08 May 2007 21:02:49 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>128</indice>
+<title><![CDATA[FlashVar Access in Cairngorm Commands]]></title>
+<author>MarkEllul</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4401]]></link>
+<description><![CDATA[If you want to access your FlashVars in your Cairngorm Commands, For example to load your ModelLocator at initialisation.]]></description>
+<pubdate>Tue, 01 May 2007 03:23:24 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>127</indice>
+<title><![CDATA[How do you display swf objects as items in a Menu using an item renderer?]]></title>
+<author>ricoz</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4321]]></link>
+<description><![CDATA[Menu items are plain text by default. You would have to do some extra work to be able to display swf or image objects in the Menu. So how do we accomplish this?]]></description>
+<pubdate>Thu, 19 Apr 2007 23:15:52 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>126</indice>
+<title><![CDATA[Design in Flash, Code in Flex Builder]]></title>
+<author>d4rkl1gh7</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4101]]></link>
+<description><![CDATA[How do I design an entire UI in Flash 9 beta but still use Flex Builder's access to the new APIs?]]></description>
+<pubdate>Mon, 16 Apr 2007 14:02:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>125</indice>
+<title><![CDATA[How to fill an accordion and dataGrids using remote data]]></title>
+<author>len_p</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4141]]></link>
+<description><![CDATA[I was posed with the problem of how to create a feature matrix in Flash using only Linux tools.]]></description>
+<pubdate>Fri, 13 Apr 2007 07:40:22 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>124</indice>
+<title><![CDATA[How to change the URL of a WebService at Runtime]]></title>
+<author>MarkEllul</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4121]]></link>
+<description><![CDATA[Changing the URL of a WebService at runtime, which would allow the same swf to run on different environments (developer pc, staging and production)]]></description>
+<pubdate>Thu, 12 Apr 2007 09:45:57 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>123</indice>
+<title><![CDATA[How to Replace the url of an HTTPService in a component]]></title>
+<author>shotbyshawn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4041]]></link>
+<description><![CDATA[How to change the xml file that populates a component to another xml file when a link or button is clicked]]></description>
+<pubdate>Mon, 09 Apr 2007 06:22:05 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>122</indice>
+<title><![CDATA[Smooth Image]]></title>
+<author>BenLongoria</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4001]]></link>
+<description><![CDATA[By default, the mx:Image component does not enable smoothing.]]></description>
+<pubdate>Sun, 08 Apr 2007 07:34:44 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>121</indice>
+<title><![CDATA[DropShadow on Button Labels]]></title>
+<author>peterent</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4002]]></link>
+<description><![CDATA[Here's how to add a shadow to a button's label rather than to the entire button.]]></description>
+<pubdate>Fri, 06 Apr 2007 13:25:04 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>120</indice>
+<title><![CDATA[Dashed Separator Lines]]></title>
+<author>peterent</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3981]]></link>
+<description><![CDATA[The HRule and VRule components draw solid lines. There are no controls which draw dashed or dotted lines.]]></description>
+<pubdate>Fri, 06 Apr 2007 09:32:56 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>119</indice>
+<title><![CDATA[Expando-ComboBox]]></title>
+<author>KyleQ</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3962]]></link>
+<description><![CDATA[A simple extension to ComboBox to allow the dropdown to expand to the width of the widest entry and the ComboBox input to expand/contract to the width of the selected item.]]></description>
+<pubdate>Wed, 04 Apr 2007 09:26:49 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>118</indice>
+<title><![CDATA[How do you implement a Flow Layout?]]></title>
+<author>darronschall</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3841]]></link>
+<description><![CDATA[You want to lay out the children of a container so that they flow left to right and onto a new row when as necessary.]]></description>
+<pubdate>Mon, 02 Apr 2007 05:44:32 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>117</indice>
+<title><![CDATA[Avoid blurry line on pop-up window drag]]></title>
+<author>casper_no</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3761]]></link>
+<description><![CDATA[If you drag a component, lines and fonts in the component may appear blurry, especially 1px lines.]]></description>
+<pubdate>Thu, 29 Mar 2007 09:50:55 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>116</indice>
+<title><![CDATA[Keeping a pop-up window centered]]></title>
+<author>Gboro54</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3701]]></link>
+<description><![CDATA[I was trying to keep a title window set as a popup to stay centered without any other layouts and now matter what size the window was]]></description>
+<pubdate>Wed, 21 Mar 2007 10:58:38 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>115</indice>
+<title><![CDATA[Enable smoothing on VideoDisplay]]></title>
+<author>JimHoskins</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3561]]></link>
+<description><![CDATA[The class mx.controls.VideoDisplay does not allow you to change the smoothing property of the underlying Video object.]]></description>
+<pubdate>Sat, 17 Mar 2007 15:22:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>114</indice>
+<title><![CDATA[Accessing ASP.NET session state]]></title>
+<author>Ria Flex</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3481]]></link>
+<description><![CDATA[Each Flex HttpService request starts a new server-side session. This due to the fact that the ASP.NET_SessionId cookie is not sent back to the client.]]></description>
+<pubdate>Sat, 17 Mar 2007 02:56:37 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>113</indice>
+<title><![CDATA[Get a Client IP Address with a RemoteObject Call]]></title>
+<author>USawIt</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3462]]></link>
+<description><![CDATA[Is there a way to restrict Flex 2 content and allow only internal network users or selected IP addresses access?]]></description>
+<pubdate>Fri, 09 Mar 2007 21:13:04 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>112</indice>
+<title><![CDATA[Days Until Christmas]]></title>
+<author>USawIt</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=1621]]></link>
+<description><![CDATA[How can I display the days until an event (Christmas for example)?]]></description>
+<pubdate>Thu, 08 Mar 2007 08:28:23 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>111</indice>
+<title><![CDATA[A quick Actionscript 3 workaround for MS SQL Server default date-time parsing]]></title>
+<author>wsdudios</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3261]]></link>
+<description><![CDATA[Returning AS3 Date objects from SQL Server date-time strings]]></description>
+<pubdate>Thu, 08 Mar 2007 21:49:17 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>110</indice>
+<title><![CDATA[Custom serialization using IExternalizable]]></title>
+<author>pete</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3401]]></link>
+<description><![CDATA[Occasionally the developer may want to customize which properties are sent over the wire when sending strongly typed data using RemoteObject or DataService. This may involve including read-only properties, reducing bandwidth or handling unavoidable changes to a remote API.]]></description>
+<pubdate>Mon, 05 Mar 2007 07:16:08 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>109</indice>
+<title><![CDATA[How to prototype web pages with Flex Builder]]></title>
+<author>flexproto</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3342]]></link>
+<description><![CDATA[Sometimes you want to prototype your web pages for a Flex application before adding the server and client-side code.]]></description>
+<pubdate>Tue, 27 Feb 2007 06:09:43 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>108</indice>
+<title><![CDATA[Complete component communication solution for Flex]]></title>
+<author>Born2code</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3341]]></link>
+<description><![CDATA[The Flex Framework is a powerful and rich environment. However due to its complex and elaborate event driven architecture it is easy to loose control and it is hard to maintain a clear communication among all components / objects]]></description>
+<pubdate>Tue, 27 Feb 2007 18:00:10 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>107</indice>
+<title><![CDATA[Flow Layout]]></title>
+<author>jamesjaco</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3183]]></link>
+<description><![CDATA[There isn't currently any sort of a flow layout in Flex. This would be especially useful for breadcrumbs and tag-clouds.]]></description>
+<pubdate>Wed, 21 Feb 2007 09:11:40 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>106</indice>
+<title><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></title>
+<author>omercioglu</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3201]]></link>
+<description><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></description>
+<pubdate>Sun, 18 Feb 2007 13:04:45 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>105</indice>
+<title><![CDATA[Can't control my Flash 8 movies in Flex 2.0.1]]></title>
+<author>iCosta</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3041]]></link>
+<description><![CDATA[Some developers don't really know how to load and external SWF file from Flash 8 and control it with Flex 2. Because Flex uses AVM2 and this is and old way to get bounds of problems. Simple using the LocalConnection you can control each from AVM2 to AVM1 and AVM1 to AVM2.
+Be quite attention the Flash Player only accepts 40kb per data transfer no more then that.]]></description>
+<pubdate>Sun, 11 Feb 2007 19:41:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>104</indice>
+<title><![CDATA[HTTP Request]]></title>
+<author>battasrinivasa</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3021]]></link>
+<description><![CDATA[I want to call a jsp page when you click on a flex component and the response of a jsp page need to embed in the same page from where  we called the jsp.]]></description>
+<pubdate>Sat, 10 Feb 2007 22:02:10 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>103</indice>
+<title><![CDATA[Dynamic Accordion]]></title>
+<author>JesterXL</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2981]]></link>
+<description><![CDATA[You want to add dynamic contents to the Accordion vs. static MXML.]]></description>
+<pubdate>Thu, 08 Feb 2007 11:48:25 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>102</indice>
+<title><![CDATA[A way to build a wrapper in php for flex applications]]></title>
+<author>SuperCowPhotography</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2921]]></link>
+<description><![CDATA[To have a standardized way of coding php wrappers for flex]]></description>
+<pubdate>Tue, 06 Feb 2007 22:50:06 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>101</indice>
+<title><![CDATA[HTTP Service result is being Cached by Internet Explorer? HELP!]]></title>
+<author>msplant</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2901]]></link>
+<description><![CDATA[I am using a php script and calling it from a http service call.  Well in Firefox it works fine but in IE when you refresh it doesn't reload the data? Once the initial HTTPService request is made a second one appears to be returning the same result set. Not the new one you just added to?]]></description>
+<pubdate>Sat, 03 Feb 2007 15:23:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>100</indice>
+<title><![CDATA[Sorting numeric values in a Flex DataGrid]]></title>
+<author>AmigoFD</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2881]]></link>
+<description><![CDATA[When loading data from a webservice to be shown in a datagrid it seemed that all values in the grid are treated as string-values. So when sorting numeric columns the values were not in the correct order.
+
+Instead of:
+1 - 2 - 3 - 4 - 11 - 12 -21
+You get:
+1 - 11 - 12 - 2 - 21 - 3 - 4]]></description>
+<pubdate>Sat, 03 Feb 2007 11:18:03 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>99</indice>
+<title><![CDATA[Sorting numeric values in a Flex DataGrid]]></title>
+<author>AmigoFD</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2881]]></link>
+<description><![CDATA[When loading data from a webservice to be shown in a datagrid it seemed that all values in the grid are treated as string-values. So when sorting numeric columns the values were not in the correct order.
+
+Instead of:
+1 - 2 - 3 - 4 - 11 - 12 -21
+You get:
+1 - 11 - 12 - 2 - 21 - 3 - 4]]></description>
+<pubdate>Sat, 03 Feb 2007 11:18:03 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>96</indice>
+<title><![CDATA[Where do we use the Flex web shop?]]></title>
+<author>jackie1999</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2861]]></link>
+<description><![CDATA[In the Adobe website, there is an online shop sample. But problem is it is driven by static XML data. The question is: is there any really sample that people use it for their own shop. My answer is YES.]]></description>
+<pubdate>Thu, 01 Feb 2007 06:42:58 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>95</indice>
+<title><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></title>
+<author>omercioglu</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3201]]></link>
+<description><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></description>
+<pubdate>Sun, 18 Feb 2007 13:04:45 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>94</indice>
+<title><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></title>
+<author>omercioglu</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3201]]></link>
+<description><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></description>
+<pubdate>Sun, 18 Feb 2007 13:04:45 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>93</indice>
+<title><![CDATA[Standard way to simplest  use of php (5) on server side]]></title>
+<author>riasol</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4801]]></link>
+<description><![CDATA[Using mx.rcp.http.HTTPService to exchange data with SS require some steps to configure, handle error, test. If I want use only simple calls and not use any prepared framework (like amfphp ) I want simple and easy to repeat solution.]]></description>
+<pubdate>Sun, 27 May 2007 04:54:22 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>92</indice>
+<title><![CDATA[Standard way to simplest  use of php (5) on server side]]></title>
+<author>riasol</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4801]]></link>
+<description><![CDATA[Using mx.rcp.http.HTTPService to exchange data with SS require some steps to configure, handle error, test. If I want use only simple calls and not use any prepared framework (like amfphp ) I want simple and easy to repeat solution.]]></description>
+<pubdate>Sun, 27 May 2007 04:54:22 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>91</indice>
+<title><![CDATA[Standard way to simplest  use of php (5) on server side]]></title>
+<author>riasol</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4801]]></link>
+<description><![CDATA[Using mx.rcp.http.HTTPService to exchange data with SS require some steps to configure, handle error, test. If I want use only simple calls and not use any prepared framework (like amfphp ) I want simple and easy to repeat solution.]]></description>
+<pubdate>Fri, 08 Jun 2007 15:38:41 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>90</indice>
+<title><![CDATA[Smooth Image]]></title>
+<author>BenLongoria</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4001]]></link>
+<description><![CDATA[By default, the mx:Image component does not enable smoothing.]]></description>
+<pubdate>Sun, 08 Apr 2007 07:34:44 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>89</indice>
+<title><![CDATA[Smooth Image]]></title>
+<author>BenLongoria</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4001]]></link>
+<description><![CDATA[By default, the mx:Image component does not enable smoothing.]]></description>
+<pubdate>Sun, 08 Apr 2007 07:34:44 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>88</indice>
+<title><![CDATA[Removing the red border from control for the applied validation]]></title>
+<author>vijay khambalkar</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4781]]></link>
+<description><![CDATA[I had a TextInput, on which I applied string validation. If there is any error with input then Validator will dispach INVALID event while making the red border around the textInput. This red border does not get removed even if we set the Validator enabled property false.]]></description>
+<pubdate>Tue, 22 May 2007 01:03:03 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>87</indice>
+<title><![CDATA[Removing the red border from control for the applied validation]]></title>
+<author>vijay khambalkar</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4781]]></link>
+<description><![CDATA[I had a TextInput, on which I applied string validation. If there is any error with input then Validator will dispach INVALID event while making the red border around the textInput. This red border does not get removed even if we set the Validator enabled property false.]]></description>
+<pubdate>Tue, 22 May 2007 01:03:03 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>84</indice>
+<title><![CDATA[Keeping a pop-up window centered]]></title>
+<author>Gboro54</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3701]]></link>
+<description><![CDATA[I was trying to keep a title window set as a popup to stay centered without any other layouts and now matter what size the window was]]></description>
+<pubdate>Wed, 21 Mar 2007 10:58:38 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>83</indice>
+<title><![CDATA[Keeping a pop-up window centered]]></title>
+<author>Gboro54</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3701]]></link>
+<description><![CDATA[I was trying to keep a title window set as a popup to stay centered without any other layouts and now matter what size the window was]]></description>
+<pubdate>Wed, 21 Mar 2007 10:58:38 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>82</indice>
+<title><![CDATA[HTTP Service result is being Cached by Internet Explorer? HELP!]]></title>
+<author>msplant</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2901]]></link>
+<description><![CDATA[I am using a php script and calling it from a http service call.  Well in Firefox it works fine but in IE when you refresh it doesn't reload the data? Once the initial HTTPService request is made a second one appears to be returning the same result set. Not the new one you just added to?]]></description>
+<pubdate>Sat, 03 Feb 2007 15:23:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>81</indice>
+<title><![CDATA[HTTP Service result is being Cached by Internet Explorer? HELP!]]></title>
+<author>msplant</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2901]]></link>
+<description><![CDATA[I am using a php script and calling it from a http service call.  Well in Firefox it works fine but in IE when you refresh it doesn't reload the data? Once the initial HTTPService request is made a second one appears to be returning the same result set. Not the new one you just added to?]]></description>
+<pubdate>Sat, 03 Feb 2007 15:23:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>80</indice>
+<title><![CDATA[HTTP Request]]></title>
+<author>battasrinivasa</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3021]]></link>
+<description><![CDATA[I want to call a jsp page when you click on a flex component and the response of a jsp page need to embed in the same page from where  we called the jsp.]]></description>
+<pubdate>Sat, 10 Feb 2007 22:02:10 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>80</indice>
+<title><![CDATA[How to determine which items are visible to the user in a datagrid]]></title>
+<author>thom67</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4741]]></link>
+<description><![CDATA[Sometimes it is necessary to know which items in a datagrid are currently visible to the user (that is, without the user having to scroll), or which item is currently the first or last item in the visible list.]]></description>
+<pubdate>Sun, 20 May 2007 10:43:22 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>79</indice>
+<title><![CDATA[HTTP Request]]></title>
+<author>battasrinivasa</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3021]]></link>
+<description><![CDATA[I want to call a jsp page when you click on a flex component and the response of a jsp page need to embed in the same page from where  we called the jsp.]]></description>
+<pubdate>Sat, 10 Feb 2007 22:02:10 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>79</indice>
+<title><![CDATA[How to determine which items are visible to the user in a datagrid]]></title>
+<author>thom67</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4741]]></link>
+<description><![CDATA[Sometimes it is necessary to know which items in a datagrid are currently visible to the user (that is, without the user having to scroll), or which item is currently the first or last item in the visible list.]]></description>
+<pubdate>Sun, 20 May 2007 10:43:22 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>78</indice>
+<title><![CDATA[How to Replace the url of an HTTPService in a component]]></title>
+<author>shotbyshawn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4041]]></link>
+<description><![CDATA[How to change the xml file that populates a component to another xml file when a link or button is clicked]]></description>
+<pubdate>Mon, 09 Apr 2007 06:22:05 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>77</indice>
+<title><![CDATA[How to Replace the url of an HTTPService in a component]]></title>
+<author>shotbyshawn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4041]]></link>
+<description><![CDATA[How to change the xml file that populates a component to another xml file when a link or button is clicked]]></description>
+<pubdate>Mon, 09 Apr 2007 06:22:05 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>76</indice>
+<title><![CDATA[How to prototype web pages with Flex Builder]]></title>
+<author>flexproto</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3342]]></link>
+<description><![CDATA[Sometimes you want to prototype your web pages for a Flex application before adding the server and client-side code.]]></description>
+<pubdate>Tue, 27 Feb 2007 06:09:43 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>75</indice>
+<title><![CDATA[How to prototype web pages with Flex Builder]]></title>
+<author>flexproto</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3342]]></link>
+<description><![CDATA[Sometimes you want to prototype your web pages for a Flex application before adding the server and client-side code.]]></description>
+<pubdate>Tue, 27 Feb 2007 06:09:43 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>74</indice>
+<title><![CDATA[How to fill an accordion and dataGrids using remote data]]></title>
+<author>len_p</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4141]]></link>
+<description><![CDATA[I was posed with the problem of how to create a feature matrix in Flash using only Linux tools.]]></description>
+<pubdate>Fri, 13 Apr 2007 07:40:22 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>73</indice>
+<title><![CDATA[How to fill an accordion and dataGrids using remote data]]></title>
+<author>len_p</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4141]]></link>
+<description><![CDATA[I was posed with the problem of how to create a feature matrix in Flash using only Linux tools.]]></description>
+<pubdate>Fri, 13 Apr 2007 07:40:22 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>72</indice>
+<title><![CDATA[How to change the URL of a WebService at Runtime]]></title>
+<author>MarkEllul</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4121]]></link>
+<description><![CDATA[Changing the URL of a WebService at runtime, which would allow the same swf to run on different environments (developer pc, staging and production)]]></description>
+<pubdate>Thu, 12 Apr 2007 09:45:57 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>71</indice>
+<title><![CDATA[How to change the URL of a WebService at Runtime]]></title>
+<author>MarkEllul</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4121]]></link>
+<description><![CDATA[Changing the URL of a WebService at runtime, which would allow the same swf to run on different environments (developer pc, staging and production)]]></description>
+<pubdate>Thu, 12 Apr 2007 09:45:57 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>70</indice>
+<title><![CDATA[How do you display swf objects as items in a Menu using an item renderer?]]></title>
+<author>ricoz</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4321]]></link>
+<description><![CDATA[Menu items are plain text by default. You would have to do some extra work to be able to display swf or image objects in the Menu. So how do we accomplish this?]]></description>
+<pubdate>Thu, 19 Apr 2007 23:15:52 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>69</indice>
+<title><![CDATA[How do you display swf objects as items in a Menu using an item renderer?]]></title>
+<author>ricoz</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4321]]></link>
+<description><![CDATA[Menu items are plain text by default. You would have to do some extra work to be able to display swf or image objects in the Menu. So how do we accomplish this?]]></description>
+<pubdate>Thu, 19 Apr 2007 23:15:52 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>66</indice>
+<title><![CDATA[How can I create New Rich Symbol Flex Components for Fireworks?]]></title>
+<author>pbaird_office</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4681]]></link>
+<description><![CDATA[Fireworks CS3 currently includes a set of &quot;Flex Component&quot; Rich Symbols that are great for wireframing Flex Apps, but do not include all of the Flex Components.]]></description>
+<pubdate>Fri, 18 May 2007 09:34:51 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>65</indice>
+<title><![CDATA[How can I create New Rich Symbol Flex Components for Fireworks?]]></title>
+<author>pbaird_office</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4681]]></link>
+<description><![CDATA[Fireworks CS3 currently includes a set of &quot;Flex Component&quot; Rich Symbols that are great for wireframing Flex Apps, but do not include all of the Flex Components.]]></description>
+<pubdate>Fri, 18 May 2007 09:34:51 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>64</indice>
+<title><![CDATA[How to convert a string to a number]]></title>
+<author>Shongrunden</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4641]]></link>
+<description><![CDATA[You want to convert an input string into a number.]]></description>
+<pubdate>Thu, 17 May 2007 12:14:52 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>63</indice>
+<title><![CDATA[Get a Client IP Address with a RemoteObject Call]]></title>
+<author>USawIt</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3462]]></link>
+<description><![CDATA[Is there a way to restrict Flex 2 content and allow only internal network users or selected IP addresses access?]]></description>
+<pubdate>Fri, 09 Mar 2007 21:13:04 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>62</indice>
+<title><![CDATA[How to convert a string to a number]]></title>
+<author>Shongrunden</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4641]]></link>
+<description><![CDATA[You want to convert an input string into a number.]]></description>
+<pubdate>Thu, 17 May 2007 12:14:52 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>61</indice>
+<title><![CDATA[Get a Client IP Address with a RemoteObject Call]]></title>
+<author>USawIt</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3462]]></link>
+<description><![CDATA[Is there a way to restrict Flex 2 content and allow only internal network users or selected IP addresses access?]]></description>
+<pubdate>Fri, 09 Mar 2007 21:13:04 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>60</indice>
+<title><![CDATA[Flex2 Applications and Bookmarking 301]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4541]]></link>
+<description><![CDATA[This is our third installment into the wonderful world of rich bookmarking for Flex2 apps.]]></description>
+<pubdate>Fri, 11 May 2007 08:10:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>59</indice>
+<title><![CDATA[Flex2 Applications and Bookmarking 301]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4541]]></link>
+<description><![CDATA[This is our third installment into the wonderful world of rich bookmarking for Flex2 apps.]]></description>
+<pubdate>Fri, 11 May 2007 08:10:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>58</indice>
+<title><![CDATA[Flex 2 XML Reader Can Create UIComponents]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4582]]></link>
+<description><![CDATA[A funny thing happened on our way to the Bar one day...]]></description>
+<pubdate>Mon, 14 May 2007 15:27:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>57</indice>
+<title><![CDATA[Flex 2 XML Reader Can Create UIComponents]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4582]]></link>
+<description><![CDATA[A funny thing happened on our way to the Bar one day...]]></description>
+<pubdate>Mon, 14 May 2007 15:27:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>56</indice>
+<title><![CDATA[Dynamic Accordion]]></title>
+<author>JesterXL</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2981]]></link>
+<description><![CDATA[You want to add dynamic contents to the Accordion vs. static MXML.]]></description>
+<pubdate>Thu, 08 Feb 2007 11:48:25 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>54</indice>
+<title><![CDATA[Flex 2 EzHTTPService Object]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4561]]></link>
+<description><![CDATA[HTTPService provides a useful interface for REST Web Services however asynchronous service calls can be difficult to validate and debug.]]></description>
+<pubdate>Mon, 14 May 2007 16:15:09 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>54</indice>
+<title><![CDATA[Dynamic Accordion]]></title>
+<author>JesterXL</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2981]]></link>
+<description><![CDATA[You want to add dynamic contents to the Accordion vs. static MXML.]]></description>
+<pubdate>Thu, 08 Feb 2007 11:48:25 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>53</indice>
+<title><![CDATA[Flex 2 EzHTTPService Object]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4561]]></link>
+<description><![CDATA[HTTPService provides a useful interface for REST Web Services however asynchronous service calls can be difficult to validate and debug.]]></description>
+<pubdate>Mon, 14 May 2007 16:15:09 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>52</indice>
+<title><![CDATA[Flex 2 Applications and Bookmarking 201]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4521]]></link>
+<description><![CDATA[Our second installment in our evolving Bookmarking Saga for Flex 2.]]></description>
+<pubdate>Fri, 11 May 2007 16:02:02 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>51</indice>
+<title><![CDATA[Flex 2 Applications and Bookmarking 201]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4521]]></link>
+<description><![CDATA[Our second installment in our evolving Bookmarking Saga for Flex 2.]]></description>
+<pubdate>Fri, 11 May 2007 16:02:02 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>50</indice>
+<title><![CDATA[Flex 2 Applications and Bookmarking 101]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4428]]></link>
+<description><![CDATA[How do you enable a Flex 2 Application to process bookmarks just like any traditional HTML Application ?]]></description>
+<pubdate>Thu, 10 May 2007 17:10:13 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>49</indice>
+<title><![CDATA[Flex 2 Applications and Bookmarking 101]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4428]]></link>
+<description><![CDATA[How do you enable a Flex 2 Application to process bookmarks just like any traditional HTML Application ?]]></description>
+<pubdate>Thu, 10 May 2007 17:10:13 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>48</indice>
+<title><![CDATA[DropShadow on Button Labels]]></title>
+<author>peterent</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4002]]></link>
+<description><![CDATA[Here's how to add a shadow to a button's label rather than to the entire button.]]></description>
+<pubdate>Fri, 06 Apr 2007 13:25:04 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>47</indice>
+<title><![CDATA[FlashVar Access in Cairngorm Commands]]></title>
+<author>MarkEllul</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4401]]></link>
+<description><![CDATA[If you want to access your FlashVars in your Cairngorm Commands, For example to load your ModelLocator at initialisation.]]></description>
+<pubdate>Tue, 01 May 2007 03:23:24 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>46</indice>
+<title><![CDATA[DropShadow on Button Labels]]></title>
+<author>peterent</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4002]]></link>
+<description><![CDATA[Here's how to add a shadow to a button's label rather than to the entire button.]]></description>
+<pubdate>Fri, 06 Apr 2007 13:25:04 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>46</indice>
+<title><![CDATA[Dynamic RIA Content Delivery using Flex Builder 2.0.1]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4427]]></link>
+<description><![CDATA[Architect a method for delivering RIA Content based on Flash using Flex Builder 2.0.1]]></description>
+<pubdate>Tue, 08 May 2007 21:02:49 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>45</indice>
+<title><![CDATA[FlashVar Access in Cairngorm Commands]]></title>
+<author>MarkEllul</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4401]]></link>
+<description><![CDATA[If you want to access your FlashVars in your Cairngorm Commands, For example to load your ModelLocator at initialisation.]]></description>
+<pubdate>Tue, 01 May 2007 03:23:24 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>45</indice>
+<title><![CDATA[Dynamic RIA Content Delivery using Flex Builder 2.0.1]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4427]]></link>
+<description><![CDATA[Architect a method for delivering RIA Content based on Flash using Flex Builder 2.0.1]]></description>
+<pubdate>Tue, 08 May 2007 21:02:49 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>44</indice>
+<title><![CDATA[Enable smoothing on VideoDisplay]]></title>
+<author>JimHoskins</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3561]]></link>
+<description><![CDATA[The class mx.controls.VideoDisplay does not allow you to change the smoothing property of the underlying Video object.]]></description>
+<pubdate>Sat, 17 Mar 2007 15:22:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>43</indice>
+<title><![CDATA[Enable smoothing on VideoDisplay]]></title>
+<author>JimHoskins</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3561]]></link>
+<description><![CDATA[The class mx.controls.VideoDisplay does not allow you to change the smoothing property of the underlying Video object.]]></description>
+<pubdate>Sat, 17 Mar 2007 15:22:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>42</indice>
+<title><![CDATA[Days Until Christmas]]></title>
+<author>USawIt</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=1621]]></link>
+<description><![CDATA[How can I display the days until an event (Christmas for example)?]]></description>
+<pubdate>Thu, 08 Mar 2007 08:28:23 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>41</indice>
+<title><![CDATA[Design in Flash, Code in Flex Builder]]></title>
+<author>d4rkl1gh7</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4101]]></link>
+<description><![CDATA[How do I design an entire UI in Flash 9 beta but still use Flex Builder's access to the new APIs?]]></description>
+<pubdate>Mon, 16 Apr 2007 14:02:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>40</indice>
+<title><![CDATA[Days Until Christmas]]></title>
+<author>USawIt</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=1621]]></link>
+<description><![CDATA[How can I display the days until an event (Christmas for example)?]]></description>
+<pubdate>Thu, 08 Mar 2007 08:28:23 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>39</indice>
+<title><![CDATA[Design in Flash, Code in Flex Builder]]></title>
+<author>d4rkl1gh7</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4101]]></link>
+<description><![CDATA[How do I design an entire UI in Flash 9 beta but still use Flex Builder's access to the new APIs?]]></description>
+<pubdate>Mon, 16 Apr 2007 14:02:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>39</indice>
+<title><![CDATA[Delaying state change in transitions]]></title>
+<author>SebastianCarlsson</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4822]]></link>
+<description><![CDATA[How do I delay the actual state change when using transitions?]]></description>
+<pubdate>Mon, 28 May 2007 07:51:13 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>38</indice>
+<title><![CDATA[Dashed Separator Lines]]></title>
+<author>peterent</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3981]]></link>
+<description><![CDATA[The HRule and VRule components draw solid lines. There are no controls which draw dashed or dotted lines.]]></description>
+<pubdate>Fri, 06 Apr 2007 09:32:56 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>37</indice>
+<title><![CDATA[Dashed Separator Lines]]></title>
+<author>peterent</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3981]]></link>
+<description><![CDATA[The HRule and VRule components draw solid lines. There are no controls which draw dashed or dotted lines.]]></description>
+<pubdate>Fri, 06 Apr 2007 09:32:56 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>37</indice>
+<title><![CDATA[Delaying state change in transitions]]></title>
+<author>SebastianCarlsson</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4822]]></link>
+<description><![CDATA[How do I delay the actual state change when using transitions?]]></description>
+<pubdate>Mon, 28 May 2007 07:51:13 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>36</indice>
+<title><![CDATA[Custom Calendar Widget Development Experiences]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4429]]></link>
+<description><![CDATA[Develop a virtual Calendar widget for Flex2 as quickly as possible.]]></description>
+<pubdate>Tue, 08 May 2007 21:10:00 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>35</indice>
+<title><![CDATA[Custom Calendar Widget Development Experiences]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4429]]></link>
+<description><![CDATA[Develop a virtual Calendar widget for Flex2 as quickly as possible.]]></description>
+<pubdate>Tue, 08 May 2007 21:10:00 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>34</indice>
+<title><![CDATA[Cool text effect]]></title>
+<author>Cato Paus</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4441]]></link>
+<description><![CDATA[One solution making labels and  textArea like the effect in Need for Speed menu's]]></description>
+<pubdate>Tue, 08 May 2007 00:41:24 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>33</indice>
+<title><![CDATA[Cool text effect]]></title>
+<author>Cato Paus</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4441]]></link>
+<description><![CDATA[One solution making labels and  textArea like the effect in Need for Speed menu's]]></description>
+<pubdate>Tue, 08 May 2007 00:41:24 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>32</indice>
+<title><![CDATA[Complete component communication solution for Flex]]></title>
+<author>Born2code</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3341]]></link>
+<description><![CDATA[The Flex Framework is a powerful and rich environment. However due to its complex and elaborate event driven architecture it is easy to loose control and it is hard to maintain a clear communication among all components / objects]]></description>
+<pubdate>Tue, 27 Feb 2007 18:00:10 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>31</indice>
+<title><![CDATA[Complete component communication solution for Flex]]></title>
+<author>Born2code</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3341]]></link>
+<description><![CDATA[The Flex Framework is a powerful and rich environment. However due to its complex and elaborate event driven architecture it is easy to loose control and it is hard to maintain a clear communication among all components / objects]]></description>
+<pubdate>Tue, 27 Feb 2007 18:00:10 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>30</indice>
+<title><![CDATA[Cleaning Tag-based Content with a Regular Expression]]></title>
+<author>USawIt</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=1902]]></link>
+<description><![CDATA[Let's suppose that you have a data stream coming into your Flex application that contains some content with anchor tags, but you only want to use the link text - instead of &lt;a href =&quot;www.webmxml.com&quot;&gt; www.webmxml.com &lt;/a&gt;, you want this, www.webmxml.com.]]></description>
+<pubdate>Wed, 30 May 2007 13:40:17 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>27</indice>
+<title><![CDATA[Can't control my Flash 8 movies in Flex 2.0.1]]></title>
+<author>iCosta</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3041]]></link>
+<description><![CDATA[Some developers don't really know how to load and external SWF file from Flash 8 and control it with Flex 2. Because Flex uses AVM2 and this is and old way to get bounds of problems. Simple using the LocalConnection you can control each from AVM2 to AVM1 and AVM1 to AVM2.
+Be quite attention the Flash Player only accepts 40kb per data transfer no more then that.]]></description>
+<pubdate>Sun, 11 Feb 2007 19:41:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>26</indice>
+<title><![CDATA[Can't control my Flash 8 movies in Flex 2.0.1]]></title>
+<author>iCosta</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3041]]></link>
+<description><![CDATA[Some developers don't really know how to load and external SWF file from Flash 8 and control it with Flex 2. Because Flex uses AVM2 and this is and old way to get bounds of problems. Simple using the LocalConnection you can control each from AVM2 to AVM1 and AVM1 to AVM2.
+Be quite attention the Flash Player only accepts 40kb per data transfer no more then that.]]></description>
+<pubdate>Sun, 11 Feb 2007 19:41:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>25</indice>
+<title><![CDATA[CALL JSP FROM MXML]]></title>
+<author>arunkumar_s03@infosys.com</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4821]]></link>
+<description><![CDATA[i want to call a jsp from mxml in the same window]]></description>
+<pubdate>Mon, 28 May 2007 05:58:03 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>24</indice>
+<title><![CDATA[Accessing ASP.NET session state]]></title>
+<author>Ria Flex</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3481]]></link>
+<description><![CDATA[Each Flex HttpService request starts a new server-side session. This due to the fact that the ASP.NET_SessionId cookie is not sent back to the client.]]></description>
+<pubdate>Sat, 17 Mar 2007 02:56:37 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>23</indice>
+<title><![CDATA[Accessing ASP.NET session state]]></title>
+<author>Ria Flex</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3481]]></link>
+<description><![CDATA[Each Flex HttpService request starts a new server-side session. This due to the fact that the ASP.NET_SessionId cookie is not sent back to the client.]]></description>
+<pubdate>Sat, 17 Mar 2007 02:56:37 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>22</indice>
+<title><![CDATA[A way to build a wrapper in php for flex applications]]></title>
+<author>SuperCowPhotography</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2921]]></link>
+<description><![CDATA[To have a standardized way of coding php wrappers for flex]]></description>
+<pubdate>Tue, 06 Feb 2007 22:50:06 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>21</indice>
+<title><![CDATA[A way to build a wrapper in php for flex applications]]></title>
+<author>SuperCowPhotography</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=2921]]></link>
+<description><![CDATA[To have a standardized way of coding php wrappers for flex]]></description>
+<pubdate>Tue, 06 Feb 2007 22:50:06 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>20</indice>
+<title><![CDATA[A quick Actionscript 3 workaround for MS SQL Server default date-time parsing]]></title>
+<author>wsdudios</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3261]]></link>
+<description><![CDATA[Returning AS3 Date objects from SQL Server date-time strings]]></description>
+<pubdate>Thu, 08 Mar 2007 21:49:17 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>19</indice>
+<title><![CDATA[Flow Layout]]></title>
+<author>jamesjaco</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3183]]></link>
+<description><![CDATA[There isn't currently any sort of a flow layout in Flex. This would be especially useful for breadcrumbs and tag-clouds.]]></description>
+<pubdate>Wed, 21 Feb 2007 09:11:40 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>18</indice>
+<title><![CDATA[A quick Actionscript 3 workaround for MS SQL Server default date-time parsing]]></title>
+<author>wsdudios</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3261]]></link>
+<description><![CDATA[Returning AS3 Date objects from SQL Server date-time strings]]></description>
+<pubdate>Thu, 08 Mar 2007 21:49:17 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>17</indice>
+<title><![CDATA[Flow Layout]]></title>
+<author>jamesjaco</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3183]]></link>
+<description><![CDATA[There isn't currently any sort of a flow layout in Flex. This would be especially useful for breadcrumbs and tag-clouds.]]></description>
+<pubdate>Wed, 21 Feb 2007 09:11:40 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>16</indice>
+<title><![CDATA[Custom serialization using IExternalizable]]></title>
+<author>pete</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3401]]></link>
+<description><![CDATA[Occasionally the developer may want to customize which properties are sent over the wire when sending strongly typed data using RemoteObject or DataService. This may involve including read-only properties, reducing bandwidth or handling unavoidable changes to a remote API.]]></description>
+<pubdate>Mon, 05 Mar 2007 07:16:08 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>15</indice>
+<title><![CDATA[Custom serialization using IExternalizable]]></title>
+<author>pete</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3401]]></link>
+<description><![CDATA[Occasionally the developer may want to customize which properties are sent over the wire when sending strongly typed data using RemoteObject or DataService. This may involve including read-only properties, reducing bandwidth or handling unavoidable changes to a remote API.]]></description>
+<pubdate>Mon, 05 Mar 2007 07:16:08 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>14</indice>
+<title><![CDATA[Avoid blurry line on pop-up window drag]]></title>
+<author>casper_no</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3761]]></link>
+<description><![CDATA[If you drag a component, lines and fonts in the component may appear blurry, especially 1px lines.]]></description>
+<pubdate>Thu, 29 Mar 2007 09:50:55 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>13</indice>
+<title><![CDATA[Avoid blurry line on pop-up window drag]]></title>
+<author>casper_no</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3761]]></link>
+<description><![CDATA[If you drag a component, lines and fonts in the component may appear blurry, especially 1px lines.]]></description>
+<pubdate>Thu, 29 Mar 2007 09:50:55 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>12</indice>
+<title><![CDATA[How do you implement a Flow Layout?]]></title>
+<author>darronschall</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3841]]></link>
+<description><![CDATA[You want to lay out the children of a container so that they flow left to right and onto a new row when as necessary.]]></description>
+<pubdate>Mon, 02 Apr 2007 05:44:32 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>11</indice>
+<title><![CDATA[How do I create a Tree itemRenderer?]]></title>
+<author>joan_lafferty</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=62]]></link>
+<description><![CDATA[You cannot use a dropIn itemRenderer for Tree like you can for other List based components like DataGrid, TileList or List.]]></description>
+<pubdate>Sat, 12 May 2007 18:25:46 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>10</indice>
+<title><![CDATA[How do you implement a Flow Layout?]]></title>
+<author>darronschall</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3841]]></link>
+<description><![CDATA[You want to lay out the children of a container so that they flow left to right and onto a new row when as necessary.]]></description>
+<pubdate>Mon, 02 Apr 2007 05:44:32 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>9</indice>
+<title><![CDATA[How do I create a Tree itemRenderer?]]></title>
+<author>joan_lafferty</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=62]]></link>
+<description><![CDATA[You cannot use a dropIn itemRenderer for Tree like you can for other List based components like DataGrid, TileList or List.]]></description>
+<pubdate>Sat, 12 May 2007 18:25:46 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>8</indice>
+<title><![CDATA[Flex 2 UIComponent Development Strategies]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4581]]></link>
+<description><![CDATA[How can you tell when you should code an MXML Component versus a UIComponent subclass and what if you just don't know enough about Flex to code a UIComponent subclass.]]></description>
+<pubdate>Mon, 14 May 2007 15:36:47 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>7</indice>
+<title><![CDATA[Flex 2 UIComponent Development Strategies]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4581]]></link>
+<description><![CDATA[How can you tell when you should code an MXML Component versus a UIComponent subclass and what if you just don't know enough about Flex to code a UIComponent subclass.]]></description>
+<pubdate>Mon, 14 May 2007 15:36:47 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>6</indice>
+<title><![CDATA[How do you change the background cell color in a DataGrid?]]></title>
+<author>joan_lafferty</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=61]]></link>
+<description><![CDATA[Changing the background color of a DataGrid cell is not as simple as changing some style because the default renderer for a DataGrid cell does not have a backgroundColor. Therefore, to do this
+simple task, you have to create a custom itemRenderer where you draw your own background in the updateDisplayList function.]]></description>
+<pubdate>Sat, 12 May 2007 18:37:44 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>5</indice>
+<title><![CDATA[How do you change the background cell color in a DataGrid?]]></title>
+<author>joan_lafferty</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=61]]></link>
+<description><![CDATA[Changing the background color of a DataGrid cell is not as simple as changing some style because the default renderer for a DataGrid cell does not have a backgroundColor. Therefore, to do this
+simple task, you have to create a custom itemRenderer where you draw your own background in the updateDisplayList function.]]></description>
+<pubdate>Sat, 12 May 2007 18:37:44 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>4</indice>
+<title><![CDATA[Expando-ComboBox]]></title>
+<author>KyleQ</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3962]]></link>
+<description><![CDATA[A simple extension to ComboBox to allow the dropdown to expand to the width of the widest entry and the ComboBox input to expand/contract to the width of the selected item.]]></description>
+<pubdate>Wed, 04 Apr 2007 09:26:49 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>3</indice>
+<title><![CDATA[Expando-ComboBox]]></title>
+<author>KyleQ</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3962]]></link>
+<description><![CDATA[A simple extension to ComboBox to allow the dropdown to expand to the width of the widest entry and the ComboBox input to expand/contract to the width of the selected item.]]></description>
+<pubdate>Wed, 04 Apr 2007 09:26:49 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>2</indice>
+<title><![CDATA[Choosing a topic to write about for a Flex cookbook post (Updated 5/23/07)]]></title>
+<author>Amy Wong</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3801]]></link>
+<description><![CDATA[You'd like to contribute to the Flex cookbook, but don't know what to write about.]]></description>
+<pubdate>Wed, 23 May 2007 10:57:11 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>1</indice>
+<title><![CDATA[Choosing a topic to write about for a Flex cookbook post (Updated 5/23/07)]]></title>
+<author>Amy Wong</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=3801]]></link>
+<description><![CDATA[You'd like to contribute to the Flex cookbook, but don't know what to write about.]]></description>
+<pubdate>Wed, 30 May 2007 13:45:56 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>0</indice>
+<title><![CDATA[PDF 2 SWF Conversion]]></title>
+<author>rlnarain</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4701]]></link>
+<description><![CDATA[Using PDF2SWF to convert files into Flash Player 9 files to load inside Flex application.]]></description>
+<pubdate>Wed, 23 May 2007 14:18:26 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>-1</indice>
+<title><![CDATA[PDF 2 SWF Conversion]]></title>
+<author>rlnarain</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4701]]></link>
+<description><![CDATA[Using PDF2SWF to convert files into Flash Player 9 files to load inside Flex application.]]></description>
+<pubdate>Wed, 23 May 2007 14:18:26 GMT</pubdate>
+</item>
+
+
+
+
+
+
+
+
+</channel>
+</xml>

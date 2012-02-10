@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            name="flexRss_1"
+            id="flexRss_1">
+      </category>
+      <view
+            name="Flex Rss"
+            icon="icons/rss.png"
+            category="flexRss"
+            class="flexrss_1.views.rssView"
+            id="flexrss_1.views.rssView">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectiveExtensions">
+      <perspectiveExtension
+            targetID="org.eclipse.ui.resourcePerspective">
+         <view
+               ratio="0.5"
+               relative="org.eclipse.ui.views.TaskList"
+               relationship="right"
+               id="flexrss.views.rssView">
+         </view>
+      </perspectiveExtension>
+   </extension>
+
+</plugin>

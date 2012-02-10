@@ -1,0 +1,262 @@
+<xml version = "2.0">
+<channel>
+
+
+
+<title>Adobe: Most recent Flex Cookbook posts</title>
+<link>http://rss.adobe.com/en/flex_cookbook_most_recent.rss</link>
+<description>Most recent Flex cookbook</description>
+<language>en-us</language>
+<pubdate>Mon, 28 May 2007 21:01:48GMT</pubdate>
+
+
+
+
+
+<item>
+<visto>false</visto>
+<indice>125</indice>
+<title><![CDATA[Delaying state change in transitions]]></title>
+<author>SebastianCarlsson</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4822]]></link>
+<description><![CDATA[How do I delay the actual state change when using transitions?]]></description>
+<pubdate>Mon, 28 May 2007 07:42:26 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>115</indice>
+<title><![CDATA[How to determine which items are visible to the user in a datagrid]]></title>
+<author>thom67</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4741]]></link>
+<description><![CDATA[Sometimes it is necessary to know which items in a datagrid are currently visible to the user (that is, without the user having to scroll), or which item is currently the first or last item in the visible list.]]></description>
+<pubdate>Sun, 20 May 2007 10:37:45 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>114</indice>
+<title><![CDATA[Dynamic RIA Content Delivery using Flex Builder 2.0.1]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4427]]></link>
+<description><![CDATA[Architect a method for delivering RIA Content based on Flash using Flex Builder 2.0.1]]></description>
+<pubdate>Tue, 08 May 2007 17:47:20 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>113</indice>
+<title><![CDATA[CALL JSP FROM MXML]]></title>
+<author>arunkumar_s03@infosys.com</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4821]]></link>
+<description><![CDATA[i want to call a jsp from mxml in the same window]]></description>
+<pubdate>Mon, 28 May 2007 05:57:49 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>112</indice>
+<title><![CDATA[Cool text effect]]></title>
+<author>Cato Paus</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4441]]></link>
+<description><![CDATA[One solution making labels and  textArea like the effect in Need for Speed menu's]]></description>
+<pubdate>Tue, 08 May 2007 00:39:57 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>111</indice>
+<title><![CDATA[Standard way to simplest  use of php (5) on server side]]></title>
+<author>riasol</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4801]]></link>
+<description><![CDATA[Using mx.rcp.http.HTTPService to exchange data with SS require some steps to configure, handle error, test. If I want use only simple calls and not use any prepared framework (like amfphp ) I want simple and easy to repeat solution.]]></description>
+<pubdate>Sun, 27 May 2007 04:53:41 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>110</indice>
+<title><![CDATA[Removing the red border from control for the applied validation]]></title>
+<author>vijay khambalkar</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4781]]></link>
+<description><![CDATA[I had a TextInput, on which I applied string validation. If there is any error with input then Validator will dispach INVALID event while making the red border around the textInput. This red border does not get removed even if we set the Validator enabled property false.]]></description>
+<pubdate>Tue, 22 May 2007 01:01:35 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>109</indice>
+<title><![CDATA[How can I create New Rich Symbol Flex Components for Fireworks?]]></title>
+<author>pbaird_office</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4681]]></link>
+<description><![CDATA[Fireworks CS3 currently includes a set of &quot;Flex Component&quot; Rich Symbols that are great for wireframing Flex Apps, but do not include all of the Flex Components.]]></description>
+<pubdate>Fri, 18 May 2007 09:31:10 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>108</indice>
+<title><![CDATA[Flex 2 XML Reader Can Create UIComponents]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4582]]></link>
+<description><![CDATA[A funny thing happened on our way to the Bar one day...]]></description>
+<pubdate>Sun, 13 May 2007 10:37:23 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>107</indice>
+<title><![CDATA[Flex 2 EzHTTPService Object]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4561]]></link>
+<description><![CDATA[HTTPService provides a useful interface for REST Web Services however asynchronous service calls can be difficult to validate and debug.]]></description>
+<pubdate>Sat, 12 May 2007 16:58:10 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>106</indice>
+<title><![CDATA[Flex2 Applications and Bookmarking 301]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4541]]></link>
+<description><![CDATA[This is our third installment into the wonderful world of rich bookmarking for Flex2 apps.]]></description>
+<pubdate>Fri, 11 May 2007 08:10:47 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>105</indice>
+<title><![CDATA[Flex 2 Applications and Bookmarking 201]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4521]]></link>
+<description><![CDATA[Our second installment in our evolving Bookmarking Saga for Flex 2.]]></description>
+<pubdate>Fri, 11 May 2007 21:08:24 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>104</indice>
+<title><![CDATA[Flex 2 Applications and Bookmarking 101]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4428]]></link>
+<description><![CDATA[How do you enable a Flex 2 Application to process bookmarks just like any traditional HTML Application ?]]></description>
+<pubdate>Tue, 08 May 2007 20:57:32 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>103</indice>
+<title><![CDATA[How to convert a string to a number]]></title>
+<author>Shongrunden</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4641]]></link>
+<description><![CDATA[You want to convert an input string into a number.]]></description>
+<pubdate>Thu, 17 May 2007 12:13:25 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>102</indice>
+<title><![CDATA[How do you display swf objects as items in a Menu using an item renderer?]]></title>
+<author>ricoz</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4321]]></link>
+<description><![CDATA[Menu items are plain text by default. You would have to do some extra work to be able to display swf or image objects in the Menu. So how do we accomplish this?]]></description>
+<pubdate>Thu, 19 Apr 2007 23:02:18 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>101</indice>
+<title><![CDATA[How to fill an accordion and dataGrids using remote data]]></title>
+<author>len_p</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4141]]></link>
+<description><![CDATA[I was posed with the problem of how to create a feature matrix in Flash using only Linux tools.]]></description>
+<pubdate>Fri, 13 Apr 2007 01:53:27 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>100</indice>
+<title><![CDATA[Custom Calendar Widget Development Experiences]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4429]]></link>
+<description><![CDATA[Develop a virtual Calendar widget for Flex2 as quickly as possible.]]></description>
+<pubdate>Tue, 08 May 2007 21:09:44 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>false</visto>
+<indice>98</indice>
+<title><![CDATA[FlashVar Access in Cairngorm Commands]]></title>
+<author>MarkEllul</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4401]]></link>
+<description><![CDATA[If you want to access your FlashVars in your Cairngorm Commands, For example to load your ModelLocator at initialisation.]]></description>
+<pubdate>Mon, 30 Apr 2007 09:48:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>97</indice>
+<title><![CDATA[Flex 2 UIComponent Development Strategies]]></title>
+<author>raychorn</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4581]]></link>
+<description><![CDATA[How can you tell when you should code an MXML Component versus a UIComponent subclass and what if you just don't know enough about Flex to code a UIComponent subclass.]]></description>
+<pubdate>Sun, 13 May 2007 08:22:59 GMT</pubdate>
+</item>
+
+
+
+<item>
+<visto>true</visto>
+<indice>1</indice>
+<title><![CDATA[PDF 2 SWF Conversion]]></title>
+<author>rlnarain</author>
+<link><![CDATA[http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&productId=2&postId=4701]]></link>
+<description><![CDATA[Using PDF2SWF to convert files into Flash Player 9 files to load inside Flex application.]]></description>
+<pubdate>Sat, 19 May 2007 23:57:10 GMT</pubdate>
+</item>
+
+
+
+
+
+
+
+
+</channel>
+</xml>

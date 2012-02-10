@@ -1,0 +1,118 @@
+	
+	.myBody	{
+		background-color:#CCCCCC;
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+	
+    .channel_title{
+		width:100%;
+		top:10px;
+		position:absolute;
+		color:white;
+		font-size:20px;
+		text-decoration:none;
+		font-weight:bold;
+		left:0px;
+    }
+    
+    .channel_link{
+        color:blue;
+        text-decoration:none;
+    }
+	
+	.link:HOVER{
+		text-decoration:italic;
+	}
+    
+    .channel_description{
+        color:black;
+				font-size:20px;
+        text-decoration:italic;
+    }
+	
+    .channel_language{
+        color:green;
+				font-size:10px;
+        text-decoration:none;
+        font-weight:bold;
+    }
+	
+    .channel_pubdate{
+        color:purple;
+		font-size:13px;
+        text-decoration:none;
+    }
+	
+	.item_sotto{
+		padding-top:20px;
+		width:100%;
+		position:relative;
+	}
+	
+	.item_sopra{
+			border:1px;
+		border-style:solid;
+		border-color:#f76c05;	
+		background-color:#FFFFFF;
+		margin:5px 1px 0px 105px;
+		position:relative;
+		padding:5px 5px 5px 5px
+	}
+	
+	.item_logo{
+		position:absolute;
+		width:100px;
+		height:100px;
+		top:0px;
+		left:10px;
+	}
+
+	 .item_title{
+		margin-right:10px;
+		color:#333333;
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-weight:bold;
+		font-size:13px;
+		font-style:underline;
+    }
+    
+    .item_link{
+		margin:0;
+		padding-top:15px;
+		margin-right:110px;
+		color:#FF0000;
+        text-decoration:none;
+		font-size:11px;
+    }
+	
+	.link:HOVER{
+		text-decoration:italic;}
+    
+    .item_description{
+		background-color:#FFFFFF;
+		padding:0px 2px 2px 2px;
+		margin:0px 00px 00px 15px;
+				border:1px;
+		border-style:solid;
+		border-color:#f76c05;	
+		color:black;
+		font-family:Verdana, sans-serif;
+		font-weight:normal;
+		font-size:12px;
+    }
+	
+    .item_pubdate{
+		margin-right:150px;
+		padding-top:10px;
+		padding-left:15px;
+		color:#00000;
+		font-size:9px;
+    }
+	
+    .item_author{
+		color:black;
+		padding-top:20px;
+		margin-right:20px;
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+		font-size:9px;
+    }

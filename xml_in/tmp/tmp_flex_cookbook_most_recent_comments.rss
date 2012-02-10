@@ -1,0 +1,846 @@
+
+<rss version="2.0">
+<channel>
+ 
+
+<title>Adobe: Most recent Flex Cookbook comments</title>
+<link>http://rss.adobe.com/en/flex_cookbook_most_recent_comments.rss</link>
+<description>Most recent Flex cookbook comments</description>
+<language>en-us</language>
+<pubDate>Sun, 10 Jun 2007 09:01:38GMT</pubDate>
+
+
+
+
+	
+
+
+		<item>
+		<title><![CDATA[Creating an AnimateColor Effect]]></title>
+		<author>xgao</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1783</link>
+		<description><![CDATA[Is it possible to use it to animate color of text (mx.controls.Text)? : I am trying to use it to animate color of text (mx.controls.Text). I didn't have any luck. The complain is no color property for mx.controls.Text. Is it possible for me to use it in this case?<br><br>]]></description> 
+		<pubDate>Sat, 09 Jun 2007 14:55:42 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Creating a hand cursor over a component]]></title>
+		<author>bsr328</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1687</link>
+		<description><![CDATA[How to make this work with a Tree? : With the default Tree ItemRenderer, how do I access the icon to get the hand cursor ONLY when I am on an icon, not the label?&#160;&#160;Do I have to create my own custom ItemRenderer? Please say no...]]></description> 
+		<pubDate>Wed, 06 Jun 2007 12:53:16 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Change Background Color of the Preloader Phase]]></title>
+		<author>csdahl01</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1421</link>
+		<description><![CDATA[Changing the preloader background color... : This is the easiest way I have discovered. Just add the following, (backgroundColor="color") into your mx:application tag like so:<br><br>&lt;mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" backgroundColor="gray"&gt;]]></description> 
+		<pubDate>Sun, 03 Jun 2007 19:28:36 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Button Icon Changes at Runtime]]></title>
+		<author>Romain Eude</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1524</link>
+		<description><![CDATA[Alternate Approach...  using styles tweaking. : &lt;mx:Script&gt;<br>&#160;&#160;&lt;![CDATA[<br>&#160;&#160;	<br>&#160;&#160;	[Embed(source="../assets/icons/funnel_add.png")]<br>&#160;&#160;	[Bindable] private var imgFunnelAddClass:Class;<br>&#160;&#160;	[Embed(source="../assets/icons/funnel_delete.png")]<br>&#160;&#160;	[Bindable] private var imgFunnelDeleteClass:Class;<br>&#160;&#160;	<br>&#160;&#160;	private function toggleFilter():void{<br>&#160;&#160;	<br>&#160;&#160;&#160;&#160;if (fltr.visible == false) {<br>&#160;&#160;&#160;&#160;	// it was hidden, we show it.<br>&#160;&#160;&#160;&#160;	btnToggleFilter.styleDeclaration.setStyle("icon",imgFunnelDeleteClass);<br>&#160;&#160;&#160;&#160;} else {<br>&#160;&#160;&#160;&#160;	// it was shown we hide it.<br>&#160;&#160;&#160;&#160;	btnToggleFilter.styleDeclaration.setStyle("icon",imgFunnelAddClass);&#160;&#160;<br>&#160;&#160;&#160;&#160;}<br>&#160;&#160;&#160;&#160;fltr.visible=!fltr.visible;<br>&#160;&#160;	} <br>&#160;&#160;	<br>&#160;&#160;]]&gt;<br>	&lt;/mx:Script&gt;<br><br><br>&lt;mx:Button id="btnToggleFilter" icon="{imgFunnelAddClass}" width="20" height="20" click="toggleFilter()" /&gt;<br>	<br><br><br>]]></description> 
+		<pubDate>Fri, 01 Jun 2007 05:03:41 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Sorting numeric values in a Flex DataGrid]]></title>
+		<author>LeoRodD</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2881</link>
+		<description><![CDATA[How do I know which column was clicked ? : My grid has many numeric columns.<br>Why do Adobe remove the third parameter from compare function ?<br><br>]]></description> 
+		<pubDate>Thu, 31 May 2007 06:39:24 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[AdvanceTabNavigator]]></title>
+		<author>KostyaS</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1683</link>
+		<description><![CDATA[This is that I look for : Thank u.]]></description> 
+		<pubDate>Tue, 29 May 2007 23:46:07 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[A 3-state checkbox in a TreeItemRenderer]]></title>
+		<author>vaatpb</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=545</link>
+		<description><![CDATA[Null data value throws exception : The data property override does not check if the value is null, causing exception on 'null reference'. The fix is to guard the overridden logic with an "if null check", like so:<br> super.data = value;<br> if ( value != null ) {<br>&#160;&#160;// move the overridden logic here...<br> }<br><br>That fixed the problem I was experiencing...<br>]]></description> 
+		<pubDate>Tue, 29 May 2007 23:03:37 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[A 3-state checkbox in a TreeItemRenderer]]></title>
+		<author>Tom_Lee</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=545</link>
+		<description><![CDATA[errata : I resolved this issue (and a couple others) by calling tree.invalidateList(); in the toggleParents and toggleChildren methods.&#160;&#160;This causes the tree to update based on the changes to the data property.
+<br>
+<br>Now if I can figure out an easy way to get a collection of checked items from the tree...]]></description> 
+		<pubDate>Thu, 24 May 2007 07:35:32 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Creating a hand cursor over a component]]></title>
+		<author>fidoflexion</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1687</link>
+		<description><![CDATA[Very Unreliable : This may work on Label... but it doesn't seem to work reliably on anything else (Image, DataGrid, Model, Links, etc.) whether inline or via an event handler (AS).]]></description> 
+		<pubDate>Wed, 23 May 2007 09:26:56 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[PDF 2 SWF Conversion]]></title>
+		<author>rlnarain</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4701</link>
+		<description><![CDATA[Images are not what we want : John, Thanks for the pointer. We are already using PDF2SWF&#160;&#160;<br>tool to generate SWF. We don't require image conversion of&#160;&#160;<br>PDF, since it will lose the value of PDF in printing. What&#160;&#160;<br>we need is either we convert PDF 2 SWF which is playable&#160;&#160;<br>inside Flash Player 9 or a way to bring native PDF files&#160;&#160;<br>inside Flex.]]></description> 
+		<pubDate>Tue, 22 May 2007 07:17:17 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Flex 2 XML Reader Can Create UIComponents]]></title>
+		<author>danielberm</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4582</link>
+		<description><![CDATA[I found it useful. : Not to be a pest or anything, but I actually found it very useful. It would have been nice to have a little cheesy example though. Loved the history of Flash (never knew that before). I came in through a search on Google for 'runtime loading mxml in flex'. This was the best post that came up (on the first page anyways).]]></description> 
+		<pubDate>Mon, 21 May 2007 14:30:04 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Dynamic RIA Content Delivery using Flex Builder 2.0.1]]></title>
+		<author>SalimChujfi</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4427</link>
+		<description><![CDATA[true development style : Finally somebody talks about dynamic application delivery. That's the only way a new era of user interactivity can start. Excellent concept!!!
+<br>]]></description> 
+		<pubDate>Mon, 21 May 2007 12:57:49 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[PDF 2 SWF Conversion]]></title>
+		<author>johnpmayer</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4701</link>
+		<description><![CDATA[pdfread or swftools are your best bet (i.e. use images) : am i the same boat - have been looking for a solution for some time.&#160;&#160;Here is some research...<br>http://del.icio.us/lakshmi_khammammettu<br><br>Your best bet though is probaly PDFREAD or SWFTOOLS (use Google) which will convert the PDF to images (png or jpg) that you can use in Flex.&#160;&#160;]]></description> 
+		<pubDate>Sat, 19 May 2007 01:51:37 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Using the browser history to track application state changes]]></title>
+		<author>flexhhUser</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=209</link>
+		<description><![CDATA[Excellent example! : Thanks a lot. After adding your code to my application, the back button works. Your article is very helpful.]]></description> 
+		<pubDate>Sat, 19 May 2007 17:16:26 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></title>
+		<author>Jackie_2004</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3201</link>
+		<description><![CDATA[Built in athentication : Escribi un peque�o tuto basado en lo que aqui se fundamenta, lo puse en&#160;&#160;<br>mi blog para todos aquellos que hablen espa�ol:
+<br>www.asb-labs.com/blog
+<br>saludos! keep the work going!!]]></description> 
+		<pubDate>Thu, 17 May 2007 20:16:31 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Flex 2 EzHTTPService Object]]></title>
+		<author>Patrick Ryan</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4561</link>
+		<description><![CDATA[Related Files Links do not appear to work : The links to the related files do not appear to work. Also - while you description sounds interesting and addresses some of the issue we too have seen, as swc is not as useful as the actual source code.&#160;&#160;Can you make that available?&#160;&#160;Sharing that would make it much more useful.]]></description> 
+		<pubDate>Wed, 16 May 2007 07:13:59 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Choosing a topic to write about for a Flex cookbook post (Updated 5/23/07)]]></title>
+		<author>shuttlesworth</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3801</link>
+		<description><![CDATA[File upload to Flex Data Service : Hi,<br><br>I would like to know if the FileReference object can directly invoke a java method through the Flex Data Service. What i would like to do is use the FileReference object so that the user can select a file and then send that file to my java method. I realize that I can accomplish by sending the file to a servlet by specifying my servlet URI in the upload argument when calling upload. I just think that there has to be a better way to accomplish this.]]></description> 
+		<pubDate>Tue, 15 May 2007 16:09:24 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Flex 2 EzHTTPService Object]]></title>
+		<author>clgoodman</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4561</link>
+		<description><![CDATA[Please format in the editor : Hi raychorn,<br><br>Thanks for posting to the cookbook. I've edited the post above for formatting. <br><br>I wanted to ask you to please format your posts in the text editor, using the formatting tools there. That way your posts will show up with standard formatting and headings in the Flex cookbook. Results will be more regular if you start out with plain text rather than copying and pasting preformatted text in.<br><br>Also, please use the Title, Problem, and Solution form fields for those sections of a cookbook item, rather than re-including those in the Explanation section. These sections are designated to hold those short descriptions, and they will automatically insert the headings. (Note that I didn't edit your problem/solution paragraphs out, as i thought you might want to customize those.)<br><br>Finally, please do not include anchor links in your post, as those will not work within the final post. Most cookbook readers will not expect a table of contents, so you can omit that here. <br><br>Thank you for your posts!]]></description> 
+		<pubDate>Mon, 14 May 2007 16:25:40 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Flex 2 XML Reader Can Create UIComponents]]></title>
+		<author>matt_chotin</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4582</link>
+		<description><![CDATA[The format of this post doesn't match the cookbook style : Hi, the way this post is formatted doesn't really follow the problem/solution/explanation convention.&#160;&#160;If there's something specific that you're trying to demonstrate that would be great, but a general exposition isn't very useful to the readers.]]></description> 
+		<pubDate>Mon, 14 May 2007 15:57:16 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Flex 2 UIComponent Development Strategies]]></title>
+		<author>lingoguru</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4581</link>
+		<description><![CDATA[Download Files : I am getting and invalid archive message for the Zip file and there is no link for the pdf]]></description> 
+		<pubDate>Mon, 14 May 2007 01:02:03 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How do you change the background cell color in a DataGrid?]]></title>
+		<author>joan_lafferty</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=61</link>
+		<description><![CDATA[code included : Sorry about that, I've been trying to upload the zip file and something is wrong. It won't work. I've filed a bug with the cookbook folks. I think it has to do with the fact that this was one of the first posting and therefore a guinea pig for problems. In the meantime, I re-formatted the renderer code in the posting and included the application mxml file.]]></description> 
+		<pubDate>Sat, 12 May 2007 18:35:50 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Include more useful links in your ASDoc documentation]]></title>
+		<author>MotionMaker</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2161</link>
+		<description><![CDATA[Needs updating to helpful links. : Needs updating to helpful links.]]></description> 
+		<pubDate>Fri, 11 May 2007 13:57:09 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Flex 2 Applications and Bookmarking 101]]></title>
+		<author>clgoodman</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4428</link>
+		<description><![CDATA[Edited formatting : Hi raychorn,<br><br>I'm an editor for the Flex cookbook -- just wanted to let you know that I did some editing for formatting only, using the text editor. Thanks for posting!]]></description> 
+		<pubDate>Thu, 10 May 2007 17:00:54 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Singleton Pattern]]></title>
+		<author>ssubbu</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=262</link>
+		<description><![CDATA[A better way to implement Singleton Pattern : By passing a internal class to the Singleton class constructor, which is visible only to the Singleton class, we can make the constructor not to initialize the object. In simple, to prevent memory leakages, the constructor of the singleton should not run more than once.<br><br>Here is the solution:<br><br>package<br>{<br>&#160;&#160; <br>&#160;&#160;&#160;&#160;private static var instance:SingletonExample;<br>&#160;&#160; <br>&#160;&#160;&#160;&#160;public class SingletonExample<br>&#160;&#160;&#160;&#160;{<br>&#160;&#160;&#160;&#160;&#160;&#160; <br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;public function SingletonExample(singletonEnforcer:SingletonEnforcer)<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;{<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;//do nothing<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}<br>&#160;&#160;&#160;&#160;&#160;&#160; <br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;public static function getInstance():DisplayManager<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;{<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;if(instance == null) {<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;instance = new SingletonExample(new SingletonEnforcer());<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;return instance;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}<br>&#160;&#160;&#160;&#160;&#160;&#160; <br>&#160;&#160;&#160;&#160;}<br>&#160;&#160; <br>&#160;&#160;&#160;&#160;class SingletonEnforcer{};&#160;&#160; <br>&#160;&#160;&#160;&#160;&#160;&#160; <br>&#160;&#160; <br>}<br><br>Here, I am restricting the constructor not to instantiate any object on its own, by passing a internal class instance. This internal class will be visible only to the Singleton Class.]]></description> 
+		<pubDate>Tue, 08 May 2007 09:12:41 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Cool text effect]]></title>
+		<author>Guillermo2000</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4441</link>
+		<description><![CDATA[Cool I like this effect, thanks for shared it !!! : Cool I like this effect, thanks for shared it !!!<br>Best, Guillermo]]></description> 
+		<pubDate>Tue, 08 May 2007 05:58:46 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Flex 2 Applications and Bookmarking 101]]></title>
+		<author>tswalling</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4428</link>
+		<description><![CDATA[There's a library for Flex which easily enables this : http://joeberkovitz.com/blog/urlkit/<br><br>UrlKit is an open-source library for Flex which allows one to easily tie the state of an application to the browser's URL.]]></description> 
+		<pubDate>Tue, 08 May 2007 05:25:55 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Simple use of Tree via XMLList and E4X]]></title>
+		<author>Ivascu Cristian</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1495</link>
+		<description><![CDATA[External XML : Hi,<br>To get the XML data from an external file you need to add an URLLoader and populate the tree in the complete event handler (that's when the XML file has been completely read into a variable). The code should look like this(I have moved the entire XML into a separate file, called data.xml):<br><br>&lt;?xml version="1.0" encoding="utf-8"?&gt;<br>&lt;mx:Application&#160;&#160; xmlns:mx="http://www.adobe.com/2006/mxml" <br> layout="absolute" creationComplete="loadDataTree()"&gt;<br> &lt;mx:Script&gt;<br>&#160;&#160;&lt;![CDATA[<br>&#160;&#160;	import mx.controls.Alert;<br>&#160;&#160;	import mx.rpc.events.ResultEvent;<br>&#160;&#160;	public function loadDataTree():void<br>&#160;&#160;	{<br>&#160;&#160;&#160;&#160;var loader:URLLoader = new URLLoader(new URLRequest("data.xml"));<br>&#160;&#160;&#160;&#160;loader.addEventListener("complete",setTree);<br>&#160;&#160;	}<br>&#160;&#160;	public function setTree(event:Event):void<br>&#160;&#160;	{<br>&#160;&#160;&#160;&#160;var dataXML:XML = XML(event.target.data);<br>&#160;&#160;&#160;&#160;treeView.dataProvider=dataXML;<br>&#160;&#160;&#160;&#160;treeView.labelField = "@label";<br>&#160;&#160;	}<br>&#160;&#160;]]&gt;<br> &lt;/mx:Script&gt; <br> &lt;mx:Tree id="treeView"&#160;&#160;top="10"&#160;&#160;left="10"&#160;&#160;bottom="10"&#160;&#160;right="10"&#160;&#160;/&gt;<br>&lt;/mx:Application&gt;<br><br>Cristian]]></description> 
+		<pubDate>Tue, 08 May 2007 04:51:57 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Cool text effect]]></title>
+		<author>Cato Paus</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4441</link>
+		<description><![CDATA[Timer insted of FrameRate : The timer was the triki part :)]]></description> 
+		<pubDate>Tue, 08 May 2007 00:45:40 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[FlashVar Access in Cairngorm Commands]]></title>
+		<author>log2e</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4401</link>
+		<description><![CDATA[XML configuration file as alternative to FlashVars : As an alternative to FlashVars you could read an external XML configuration file. I usually dispatch a "GetConfiguration" event as the first Cairngorm event before the user interface is created.]]></description> 
+		<pubDate>Mon, 30 Apr 2007 11:25:27 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[I need a login/authentication component for Flex 2]]></title>
+		<author>TigerArt</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2421</link>
+		<description><![CDATA[A better solution : You can move your excellent script into PHP method of a Authentification class you create. Then you use AMFPHP to send arguments and to receive result using RemoteObject.<br>Your PHP script will be the start point to the application.]]></description> 
+		<pubDate>Mon, 30 Apr 2007 08:53:14 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Installing Flex Data Services 2 on BEA WebLogic 9]]></title>
+		<author>Ignacio Mart�n Prieto</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1103</link>
+		<description><![CDATA[An error occurred during activation of changes : Same thing happends to me, what can I do?!!!<br><br>&gt;&gt;Error&#160;&#160;An error occurred during activation of changes, please see the log for details.<br>&gt;&gt;Error	[Deployer:149606]Failed to configure deployment mbean for flex-admin#@"2.0.*".<br>&gt;&gt;Error	Name 'flex-admin#@"2.0.*"' contains illegal character '*']]></description> 
+		<pubDate>Wed, 25 Apr 2007 06:29:30 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How do you display swf objects as items in a Menu using an item renderer?]]></title>
+		<author>vonnhugo_2006</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4321</link>
+		<description><![CDATA[:-) : third one to rate! :-)]]></description> 
+		<pubDate>Sat, 21 Apr 2007 18:24:46 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Design in Flash, Code in Flex Builder]]></title>
+		<author>flashArchitect</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4101</link>
+		<description><![CDATA[Use Flash CS3 Instead : The Flash 9 Beta is obsolete and hence so is this post.&#160;&#160;For those of us who actually built projects leveraging the Flash 9 Beta and Flex, we found that:<br>-Flash 9 Beta didn't support the old (AS2) Flash Component architecture, and didn't include the new (AS3) component architecture that comes with the CS3 release<br>-Flash 9 Beta doesn't support any of the Flex component architecture.&#160;&#160;Which kind of kills the point of this post, which claims to layout a Flex application layout in Flash, which would never work since none of the Flex components could even be referenced from the Flash 9 Preview release.<br>-For a graphic artist with the goals mentioned, i.e. creating a Flex application layout outside of flex, you might instead try creating the layout in Fireworks CS3, which does exporting to MXML.]]></description> 
+		<pubDate>Thu, 19 Apr 2007 20:34:06 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Improve performance of Flex Builder 2 IDE]]></title>
+		<author>Renaun.com</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1053</link>
+		<description><![CDATA[Control Number of Editors : In Flex Builder Standalone there is an option (probably in eclipse too) to close editors if it reaches a certain number of them open.&#160;&#160;Go to Window -&gt; Preferences -&gt; General -&gt; Editors and click the "Close editors automatically" check box.]]></description> 
+		<pubDate>Mon, 16 Apr 2007 15:15:20 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How do you implement a Flow Layout?]]></title>
+		<author>Amy Wong</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3841</link>
+		<description><![CDATA[Thanks for posting your solution : Hi Darron--thanks for posting your solution to one of the problems in the open issues list.&#160;&#160;I linked it to your solution (here).&#160;&#160;]]></description> 
+		<pubDate>Fri, 13 Apr 2007 07:43:49 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How to fill an accordion and dataGrids using remote data]]></title>
+		<author>Amy Wong</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4141</link>
+		<description><![CDATA[Post was truncated : Hi Len_P - your post was truncated, so I went to your blog post and pasted everything in the post here, but had to put the code samples into downloads.&#160;&#160;I'm addressing the character limitation with our development team--asking them to increase the size. Thanks for your post and edit as you wish.&#160;&#160;]]></description> 
+		<pubDate>Fri, 13 Apr 2007 07:42:10 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How to Replace the url of an HTTPService in a component]]></title>
+		<author>MarkEllul</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4041</link>
+		<description><![CDATA[I know how to change it for a WebService : Hi I change it for a web service using the approach below.<br><br>Here is my WebService Definition<br>&lt;mx:WebService id="MyWS" <br>&#160;&#160;	wsdl="{this.urlPrefix}/MyWebService/MyWebS.asmx?WSDL"<br>&#160;&#160;&#160;&#160;<br>&#160;&#160;&#160;&#160;useProxy="false"<br>&#160;&#160;&#160;&#160;showBusyCursor="true" <br>&#160;&#160;&#160;&#160;fault="Alert.show(event.fault.faultString + '-' + event.fault.faultDetail)"&gt;<br>&lt;/mx:Webservice&gt;<br><br>I have a Bindable parameter inside the MXML that hosts the service<br><br>[Bindable]<br>&#160;&#160;&#160;&#160;&#160;&#160;public var urlPrefix:String = "http://localhost"<br>&#160;&#160;<br>When I want to change the urlPrefix I change it in the script and and call a LoadWDSL as below...<br><br>this.urlPrefix = "http://www.google.com";<br>MyWS.loadWSDL();<br><br>I hope this helps]]></description> 
+		<pubDate>Thu, 12 Apr 2007 06:12:22 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Improve performance of Flex Builder 2 IDE]]></title>
+		<author>tom_hensel</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1053</link>
+		<description><![CDATA[FreeMem : alternatively, there is http://www.junginger.biz/eclipse/freemem.html]]></description> 
+		<pubDate>Wed, 11 Apr 2007 03:20:40 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Choosing a topic to write about for a Flex cookbook post (Updated 5/23/07)]]></title>
+		<author>darronschall</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3801</link>
+		<description><![CDATA[Flow Layout : "How do you implement a Flow Layout?" has been answered here: http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;postId=3841&amp;productId=2]]></description> 
+		<pubDate>Tue, 10 Apr 2007 12:23:00 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Design in Flash, Code in Flex Builder]]></title>
+		<author>jetset</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4101</link>
+		<description><![CDATA[i had been wondering : i've been wondering what the best way to do this would be..&#160;&#160;I work with designers frequently with projects requiring custom UI design, and the Flex classes can add a lot of weight to the published .swf file.]]></description> 
+		<pubDate>Tue, 10 Apr 2007 06:29:54 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Smooth Image]]></title>
+		<author>_del_p_</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4001</link>
+		<description><![CDATA[works well : I liked it, tried it out on a few of my photos. you only really get the benefit of smoothing if you're going to be displaying the images bigger than they actually are.
+<br>Why isn't this a property of a normal Image, what sort of performace hit do you take by turning on smoothing?]]></description> 
+		<pubDate>Mon, 09 Apr 2007 16:42:34 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Smooth Image]]></title>
+		<author>BenLongoria</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4001</link>
+		<description><![CDATA[Source now in post : Don't know whats up with the ZIP file upload. Tested my zip file before upload, works, download it after upload doesn't work. Tried it a couple more times with the same results. So I just put the source in the post since it is so small. Had some example files, but this should be easy enough to implement.]]></description> 
+		<pubDate>Sun, 08 Apr 2007 07:38:13 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Smooth Image]]></title>
+		<author>devert</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=4001</link>
+		<description><![CDATA[Source is Corrupt : I could not get the file to unzip.]]></description> 
+		<pubDate>Sat, 07 Apr 2007 22:29:22 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Keeping a pop-up window centered]]></title>
+		<author>Alexey Krasnoriadtsev</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3701</link>
+		<description><![CDATA[Center popup to the main applicaiton : PopupManager.centerPopup(myWindow, Applicaiton.application);<br><br>Applicaiton.application is a static reference to the main application object that takes full screen.]]></description> 
+		<pubDate>Wed, 04 Apr 2007 12:25:59 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How do you change the background cell color in a DataGrid?]]></title>
+		<author>billp87</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=61</link>
+		<description><![CDATA[yeah please do that : yeah please do that&#160;&#160;<br><br>invalid zip archive]]></description> 
+		<pubDate>Tue, 03 Apr 2007 16:28:56 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[A 3-state checkbox in a TreeItemRenderer]]></title>
+		<author>Mortimer Jazz</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=545</link>
+		<description><![CDATA[errata : Great code. Here is a minor fix:<br>If you have a node with two or more children:<br>1) expand the node (without checking it)<br>2) check one of the children<br>3) uncheck the same child<br><br>The parent will remain in the 'schrodinger' state - this only happens on the initial run, and if your xml does not explicitly specify the 'state' attributes, as it results in noChecks=1, noUnChecks=0 and noCats=1, which will pass the first branch of the conditional.<br><br>To prevent this, change this line of getState method from :<br><br>if ((noChecks &gt; 0 &amp;&amp; noUnChecks &gt; 0) || (noCats &gt; 0))<br><br>to <br><br>if ((noChecks &gt; 0 &amp;&amp; noUnChecks &gt; 0) || (noCats &gt; 0 &amp;&amp; noChecks&gt;0))<br>]]></description> 
+		<pubDate>Tue, 03 Apr 2007 03:59:19 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Keeping a pop-up window centered]]></title>
+		<author>srivello</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3701</link>
+		<description><![CDATA[Builtin in Centering : PopupManager.centerPopUp ()&#160;&#160;does this automatically based on the parent (can be app or any component).<br>]]></description> 
+		<pubDate>Sun, 01 Apr 2007 14:10:17 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[SexyTextInput:  Extending Text Input field]]></title>
+		<author>packetdrop</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1601</link>
+		<description><![CDATA[nothing better to do? : If you have a problem with the title, stfu and don't use the component. And no I have nothing better to do than point out idiots who post stupid comments.]]></description> 
+		<pubDate>Thu, 29 Mar 2007 10:22:06 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Flex Remoting with Oracle XE Database and AMFPHP 1.9 beta]]></title>
+		<author>dishmael</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2631</link>
+		<description><![CDATA[Multiple Destinations : Is it possible to use the service-config.xml file without specifying it during the compile time?&#160;&#160;Right now, when you want to change the destination, it requires a recompile which is a real pain when dealing with multiple destinations.]]></description> 
+		<pubDate>Wed, 21 Mar 2007 05:39:08 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Tracking results from multiple,simultaneous service calls]]></title>
+		<author>tyriker</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=922</link>
+		<description><![CDATA[Great Info : This is great information I haven't been able to easily find elsewhere. Thanks for that!<br><br>Some additional information that helped me understand how this works. You can do something like:<br>private function run():void {<br>&#160;&#160;var token:AsyncToken = service.send();<br>&#160;&#160;token.resultHandler = result;<br>&#160;&#160;token.anything = "anything";<br>}<br>private function result(e:ResultEvent):void {<br>&#160;&#160;trace(e.token.anything);<br>}<br>and not worry about accessing e.token.anything in the result handler before it has actually been set. Even though service.send() is asynchronous, the execution of ActionScript is single threaded, and result handler of service can't actually happen until you're out of the current function. So you are free to safely add things to token, and not worry about the result handler triggering first. Hope this helps!]]></description> 
+		<pubDate>Tue, 20 Mar 2007 08:30:08 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Where do we use the Flex web shop?]]></title>
+		<author>flexmasterb</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2861</link>
+		<description><![CDATA[how did you make the backend? : Hi can you give me details on how you made the backend of your store?<br>Please anything ive been stuck trying to figure it out..<br><br>Thank you<br>bmanoukian@rogers.com]]></description> 
+		<pubDate>Mon, 19 Mar 2007 18:10:44 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[AdvanceTabNavigator]]></title>
+		<author>vmap</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1683</link>
+		<description><![CDATA[Button Padding : Any thoughts on how to pad the button so it is not so close to the label text?]]></description> 
+		<pubDate>Mon, 12 Mar 2007 10:20:11 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Sorting numeric values in a Flex DataGrid]]></title>
+		<author>Coos</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2881</link>
+		<description><![CDATA[Can this be done for financial values? : Can you use this same method to sort financial reports that have negative values in parentheses, as in
+<br>$5.00<br>($6.00)<br>($3.00)<br>
+<br>I haven't done any flex programming yet, but I assume one would have to strip the $ sign and parentheses prior to applying your sort.]]></description> 
+		<pubDate>Thu, 08 Mar 2007 12:53:11 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[A quick Actionscript 3 workaround for MS SQL Server default date-time parsing]]></title>
+		<author>pete</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3261</link>
+		<description><![CDATA[HTML formatting appears in post. : Looks like HTML formatting needs to be removed from the solution text.]]></description> 
+		<pubDate>Mon, 05 Mar 2007 07:21:19 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Simple use of Tree via XMLList and E4X]]></title>
+		<author>shotbyshawn</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1495</link>
+		<description><![CDATA[-1? I input 4 for a rating : ...that was wierd]]></description> 
+		<pubDate>Sat, 03 Mar 2007 08:59:25 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Simple use of Tree via XMLList and E4X]]></title>
+		<author>shotbyshawn</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1495</link>
+		<description><![CDATA[External XML for this? : Hi there, how would I take this example, exactly as shown otherwise, and move the actual List to an external XML file, and point your example to the source .xml file, instead of embedding a hard-coded List? There doesn't seem to be a way to do it with XMLList, XMLListCollection, or Model that I can make work.<br><br>Shawn]]></description> 
+		<pubDate>Sat, 03 Mar 2007 02:03:25 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Web Services and Document-oriented Operations]]></title>
+		<author>BernFarr</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1821</link>
+		<description><![CDATA[More code would help : This is a good start. But it would help me more if you provided the WSDL being invoked.<br> <br>For example, presumably LoginOperation is one of the defined operations in the WSDL. <br><br>It's hard for a beginner to separate the WSDL specifics from the Flex capabilities.<br><br>But thanks for filling in some of the gaps in my WebService knowledge.]]></description> 
+		<pubDate>Fri, 02 Mar 2007 13:11:20 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How do you change the background cell color in a DataGrid?]]></title>
+		<author>PPounder</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=61</link>
+		<description><![CDATA[Zip file not working : Is there any chance of uploading the zip file again. I'm getting an error not allowing me to unzip.]]></description> 
+		<pubDate>Fri, 02 Mar 2007 07:08:29 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Complete component communication solution for Flex]]></title>
+		<author>Amy Wong</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3341</link>
+		<description><![CDATA[Character limitation : Hi Sean, saw your issue with the character limitation in the code window. Increasing that limit is something we are looking into. One way to get around it is to post your code as a file attachment to your post.&#160;&#160;You might do that in the future if you want to share your solution all in one place.]]></description> 
+		<pubDate>Tue, 27 Feb 2007 06:14:27 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How to prototype web pages with Flex Builder]]></title>
+		<author>Amy Wong</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3342</link>
+		<description><![CDATA[ChivertonT's comment integrated : Dear Flexproto--I am a Flex cookbook editor. I edited your post to integrate ChivertonT's suggestion.&#160;&#160;As you work with the GUI in Flex Builder, please update your post with your findings and possible information for other Flex cookbook users.&#160;&#160;This area is not an area for posting questions, it is meant as an area to share solutions--the best place for posting general questions like yours is in the Flex Exchange.&#160;&#160;If you have a solution to share, or if someone else gives you a solution, it's a great area to post your information, however.]]></description> 
+		<pubDate>Tue, 27 Feb 2007 06:12:05 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How to prototype web pages with Flex Builder]]></title>
+		<author>ChivertonT</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3342</link>
+		<description><![CDATA[FlexBuilder : FlexBuilder has a drag'n'drool GUI, with a free trial. Wont help if you are on <br>Linux of course.]]></description> 
+		<pubDate>Tue, 27 Feb 2007 02:00:26 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[HTTP Service result is being Cached by Internet Explorer? HELP!]]></title>
+		<author>danielneri</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2901</link>
+		<description><![CDATA[Thank You!! : Thanks a ton for the cache control tip. Solved my problems!!<br><br>I was also pulling my hair out over this silly little problem. My client wasn't too happy when I showed him a preview and nothing worked, thanks to Internet Explorer<br><br>Thanks again!]]></description> 
+		<pubDate>Tue, 27 Feb 2007 18:48:55 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></title>
+		<author>AlexCook</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3201</link>
+		<description><![CDATA[I don't use the built in Authentication : Hey there.<br><br>I haven't used AMFPHP 1.9 beta 2 yet but I used the last version of amfphp.<br><br>I just wrote my own login / logout stuff.&#160;&#160;I also made it more secure by watching the last tutorial which was made on security.<br><br>Not sure if that helps.<br><br>I also remember reading somewhere that the Authentication stuff is going to be removed from amfphp?<br><br>Maybe I'm wrong.]]></description> 
+		<pubDate>Mon, 26 Feb 2007 13:10:48 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Playing an external MP3 file using MXML?]]></title>
+		<author>Mike Gillan</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=501</link>
+		<description><![CDATA[It's a good start... : This is a good example - many developers are going to want to embed media in their flex apps. Unfortunately the example falls short of being usable in a real-world situation since the application loads the entire mp3 file on creation rather than streaming it.<br><br>I'm not sure what the extra ';' characters are doing in the code - maybe a CVS escape character? Here is the code after cleanup (working):<br><br>&lt;?xml version="1.0" encoding="utf-8"?&gt;<br>&lt;mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" xmlns:net="flash.net.*" xmlns:media="flash.media.*" creationComplete="mySound.load(myURLReq)"&gt;<br>&#160;&#160;&lt;mx:Number id="myPos"&gt;0&lt;/mx:Number&gt;<br>&#160;&#160;&lt;net:URLRequest id="myURLReq" url="Track01.mp3" /&gt;<br>&#160;&#160;&lt;media:SoundChannel id="mySoundChannel" /&gt;<br>&#160;&#160;&lt;media:Sound id="mySound" progress="prog.text = 'Loading ' + String(Sound(event.target).bytesLoaded)" complete="prog.text = 'Completed'" /&gt;<br>&#160;&#160;&lt;mx:Panel title="MP3 Player"&gt;<br>&#160;&#160;&#160;&#160;&lt;mx:Text id="prog" /&gt;<br>&#160;&#160;&#160;&#160;&lt;mx:ControlBar&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&lt;mx:Button id="play" label="PLAY" click="mySoundChannel = mySound.play(myPos, 0, null); prog.text = 'Playing'" /&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&lt;mx:Button id="pause" label="PAUSE" click="myPos = mySoundChannel.position; mySoundChannel.stop(); prog.text = 'Paused'" /&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&lt;mx:Button id="stop" label="STOP" click="mySoundChannel.stop(); prog.text = 'Stopped'" /&gt;<br>&#160;&#160;&#160;&#160;&lt;/mx:ControlBar&gt;<br>&#160;&#160;&lt;/mx:Panel&gt;<br>&lt;/mx:Application&gt;]]></description> 
+		<pubDate>Mon, 26 Feb 2007 19:33:35 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></title>
+		<author>omercioglu</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3201</link>
+		<description><![CDATA[Please see the amfphp code. : It's a method of amfphp authentication mechanism.<br>Have a look in amfphp\core\shared\util\Authenticate.php.]]></description> 
+		<pubDate>Sat, 24 Feb 2007 00:06:31 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[ResizeManager]]></title>
+		<author>JamesDWilson</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1685</link>
+		<description><![CDATA[Very helpful. : Easy to use, to add moving too just add mousedown="objRef.startDrag()" and mouseup="objRef.stopDrag();"<br><br>BTW: the zip file worked fine for me obviously. :) I used winrar]]></description> 
+		<pubDate>Fri, 23 Feb 2007 07:21:50 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Simple user authentication in Amfphp 1.9 beta 2]]></title>
+		<author>randomblink</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3201</link>
+		<description><![CDATA[Try again... : You reference a class / method that you don't discuss? Authenticate::getAuthUser()<br><br>Would you mind explaining what that is?]]></description> 
+		<pubDate>Thu, 22 Feb 2007 12:06:53 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Create Component Instance from Class Name]]></title>
+		<author>PalacaJoe</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1764</link>
+		<description><![CDATA[Not Very Dynamic : I echo Khinu's comment. This is barely dynamic enough to call "dynamic." It is a lot of code to replicate AS1's duplicateMovieClip function, which I, as a full-time ActionScript programmer, have used maybe once in the last seven years. The absence of a method in Flex of dynamically instanciating an unknown class is a major failing. I have had to implement very unelegant workarounds in every project.]]></description> 
+		<pubDate>Wed, 21 Feb 2007 10:33:50 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Flow Layout]]></title>
+		<author>targetplanet</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3183</link>
+		<description><![CDATA[implementation? : Could you show an implementation of this?<br>thanks<br>Russ]]></description> 
+		<pubDate>Wed, 21 Feb 2007 17:25:44 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[HTTP Service result is being Cached by Internet Explorer? HELP!]]></title>
+		<author>CNelissen</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2901</link>
+		<description><![CDATA[Cache control : You need to use a cache control header in your PHP script..<br><br>i.e.
+<br><br>&lt;?php<br>session_start();
+<br>header("Cache-control: private");<br>?&gt;<br>
+<br>Put this at the very top of your PHP code, and it will create a new sessions each time the script gets run.]]></description> 
+		<pubDate>Tue, 20 Feb 2007 16:19:36 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Global keyboard event handling]]></title>
+		<author>AS2Xtreme</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=304</link>
+		<description><![CDATA[This is a good one : I think there must be a way to get the listeners to work without a click at the begining.&#160;&#160;But it is a fair solution for this issue. Great!!!]]></description> 
+		<pubDate>Mon, 19 Feb 2007 10:58:18 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Sorting numeric values in a Flex DataGrid]]></title>
+		<author>Thireven</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2881</link>
+		<description><![CDATA[Good job : This is pretty much identical (in operation) to how you would make custom sorts for the DataGrid in VB.NET/C# as well.]]></description> 
+		<pubDate>Thu, 15 Feb 2007 14:38:22 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Installing Flex Data Services 2 on BEA WebLogic 9]]></title>
+		<author>asman07310</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1103</link>
+		<description><![CDATA[Failed to configure deployment mbean for flex#@"2.0.*". : Every time I try to deploy any of these war files on weblogic 9.2 as described above I get following errors
+<br>&gt;&gt;&#160;&#160;An error occurred during activation of changes, please see the log for details.&#160;&#160;
+<br>&gt;&gt;&#160;&#160;[Deployer:149606]Failed to configure deployment mbean for flex#@"2.0.*".&#160;&#160;
+<br>&gt;&gt;&#160;&#160;Name 'flex#@"2.0.*"' contains illegal character '*'&#160;&#160;
+<br><br>What am I missing?]]></description> 
+		<pubDate>Wed, 14 Feb 2007 14:33:26 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Can't control my Flash 8 movies in Flex 2.0.1]]></title>
+		<author>iCosta</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3041</link>
+		<description><![CDATA[Corrected Link : Don't really know what happen here with the cookbook but <br>Here's the direct link of it.<br><br>www.igorcosta.com/flex2/Flex_e_Flash.zip<br><br>Best<br>]]></description> 
+		<pubDate>Wed, 14 Feb 2007 05:53:04 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[HTTP Request]]></title>
+		<author>Amy Wong</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3021</link>
+		<description><![CDATA[Cookbook guidelines : Hi battasrinivasa, the Flex cookbook is a place to post solutions and share technical knowledge.&#160;&#160;If you want to post questions, the ideal place is the Flex forums or Flexcoders.org.&#160;&#160;Thank you.]]></description> 
+		<pubDate>Mon, 12 Feb 2007 13:21:06 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Can't control my Flash 8 movies in Flex 2.0.1]]></title>
+		<author>vsilyin@mail.ru</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3041</link>
+		<description><![CDATA[Flash_e_Flex.zip cannot be opened : At opening a file Flash_e_Flex.zip (63KB)<br>in program WinZip
+<br>I receive&#160;&#160;Message WZ40<br><br>The Zip file cannot be opened
+<br><br>]]></description> 
+		<pubDate>Mon, 12 Feb 2007 11:09:05 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[HTTP Request]]></title>
+		<author>Los__D</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3021</link>
+		<description><![CDATA[Not a cookbook item : This is for solutions, not questions]]></description> 
+		<pubDate>Mon, 12 Feb 2007 05:10:41 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[HTTP Request]]></title>
+		<author>danger42</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=3021</link>
+		<description><![CDATA[FABridge : I think what you want is FABridge: http://labs.adobe.com/wiki/index.php/Flex_Framework:FABridge]]></description> 
+		<pubDate>Sat, 10 Feb 2007 08:30:19 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Sly as a Fox: Retrieving browser and server &quot;State&quot; information in Flex  without AJAX or using the WRAPPER.]]></title>
+		<author>trent_sc</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2001</link>
+		<description><![CDATA[Logging Out From Flex : Sorry as these comments may have gotten a touch off target, logging out of your flex app could use a little javascript and the Flex Ajax Bridge like so in an html wrapper:<br><br>&lt;script src="bridge/FABridge.js" &gt;&lt;/script&gt;<br>&lt;script type="text/javascript"&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;<br>&#160;&#160;	function checkLogout()<br>&#160;&#160;	{<br>&#160;&#160;&#160;&#160;var flexApp = FABridge.example.root();<br>&#160;&#160;&#160;&#160;var loggedIn = flexApp.isLoggedIn();<br>&#160;&#160;&#160;&#160;if(loggedIn)<br>&#160;&#160;&#160;&#160;{<br>&#160;&#160;&#160;&#160;	flexApp.logoutUser();<br>&#160;&#160;&#160;&#160;	return "Please remember to logout before exiting.";<br>&#160;&#160;&#160;&#160;}<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;return;<br>&#160;&#160;	}<br>&#160;&#160;	<br>&#160;&#160;&#160;&#160;&#160;&#160;window.onbeforeunload = checkLogout;<br>&lt;/script&gt;<br><br>This would logout the user when trying to leave the page given isLoggedIn() is an actionscript function returning t/f and logoutUser() logs out theuser in your flex app.]]></description> 
+		<pubDate>Fri, 09 Feb 2007 10:27:56 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[HTTP Service result is being Cached by Internet Explorer? HELP!]]></title>
+		<author>msplant</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2901</link>
+		<description><![CDATA[How would that code look? : I am not very proficient in java, I have learned a lot of php and yes I am calling a php doc that prints out an xml formatted result to be shared with Flex. I don't know how I could create a random number in Flex?? and then I assume you are saying I dont use the GET random number but then IE will view it as a different link the second time right?<br><br>If you could just show me how to create the random number in java and the pass it through?&#160;&#160;I think I understand the pass through just use the Get method instead of nothing right? And then pass the random number to my php but technically I dont need the number.&#160;&#160;I think I see what you mean. I would think at most the random number needs to be to 1,000 ? I will browse around and see if I can find a random number generator that works but as I said I am not familiar with very much java so I dont know how far I will get.'<br><br>Thanks for the help its seems to make sense. If you have a simple example could you post it?&#160;&#160;<br><br>Thanks Andre,<br>FLEX Cookbook saves the day again!!]]></description> 
+		<pubDate>Thu, 08 Feb 2007 10:52:45 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Where do we use the Flex web shop?]]></title>
+		<author>r3007</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2861</link>
+		<description><![CDATA[Flex 2 Shop : Hi,<br><br>I am ver y new to flex so pliz give me the url of sample code of Flex web shop. I am very interested in doing this project.And also the step of implementing.<br><br>Thanking You<br>Raj]]></description> 
+		<pubDate>Wed, 07 Feb 2007 05:30:11 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[HTTP Service result is being Cached by Internet Explorer? HELP!]]></title>
+		<author>Andre2Flex</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2901</link>
+		<description><![CDATA[Try this to get a new XML everytime : I believe you are generating XML with the help of PHP and then calling that PHP file with XML header in your HTML page with the help of AJAX. <br>If you are doing so, you can use a random number with the name of URL you are calling like&#160;&#160;yourfile.php?xmlrequiredid=(value)&amp;randomNo=(randomnumber) <br><br>this way you will get a new file each time.<br><br>I hope this helps you.<br>]]></description> 
+		<pubDate>Mon, 05 Feb 2007 13:11:26 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Where do we use the Flex web shop?]]></title>
+		<author>Andre2Flex</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2861</link>
+		<description><![CDATA[Where is the Adobe online shop sample? : Where is the Adobe online shop sample? Can you share the URL here?<br>
+<br>Your work is really good, and you have also allowed to download the code. But it will be better if you also explains how to use those code for beginners... I believe flex has some simple solution for that.]]></description> 
+		<pubDate>Sat, 03 Feb 2007 15:52:06 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[ModuleLoader bug]]></title>
+		<author>Vasileus</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2801</link>
+		<description><![CDATA[Online Bug Demo : Bug Demo online:<br><br>http://kss.korax.ru/bugs/module_bug/ModuleBug.html<br><br>1. Left Panel: load<br>2. Right Panel: load<br>3. Right Panel: unload<br>4. Right Panel: load<br><br>]]></description> 
+		<pubDate>Thu, 01 Feb 2007 02:38:36 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Change Background Color of the Preloader Phase]]></title>
+		<author>jlward4th</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1421</link>
+		<description><![CDATA[SWF Metadata : I think you can also add this to your applications metadata like:<br>&#160;&#160;&lt;mx:Metadata&gt;<br>&#160;&#160;[SWF(defaultBackgroundColor="0x1a1a1a")]<br>&#160;&#160;&lt;/mx:Metadata&gt;]]></description> 
+		<pubDate>Wed, 31 Jan 2007 23:34:59 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Different Items renderers in List]]></title>
+		<author>davidguimard</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2081</link>
+		<description><![CDATA[quite good : good job nice ,short and elegant like the sample about ClassFactory]]></description> 
+		<pubDate>Tue, 30 Jan 2007 14:55:55 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[How to config the web service for across domain accessing?]]></title>
+		<author>escobarito2k5</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2281</link>
+		<description><![CDATA[Accessing 3rd-party web services : This is only possible if you have access to domain A where the web service is hosted. When accessing a 3rd-party web service this is not the case, and they may not always have set up a crossdomain.xml file. In that case you need some kind of script to act as a proxy for your requests.<br><br>A simple example is available here: http://www.paulofierro.com/archives/459/]]></description> 
+		<pubDate>Tue, 30 Jan 2007 01:24:27 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Override the Application style properties]]></title>
+		<author>JabbyPandaUA</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1721</link>
+		<description><![CDATA[I like this "plain" style : &#160;&#160; I like this style to to reset all paddings to 0 for &lt;mx:application&gt; tag via setting value of a single styleName atrribute . <br><br>By the way who needs those default paddings margins if you have verticalGap and horizontalGap properties?]]></description> 
+		<pubDate>Fri, 26 Jan 2007 02:11:31 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Buttons with icons &amp; preset properties]]></title>
+		<author>joshspoon1</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1943</link>
+		<description><![CDATA[This is what Flex is about : you took what is generic and add a little something to make it no look right out of the box]]></description> 
+		<pubDate>Thu, 25 Jan 2007 00:33:53 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Video Player]]></title>
+		<author>joshspoon1</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1921</link>
+		<description><![CDATA[I like it : My only thought is can it be more intuitive. setSource() is set to application completion and set to autoplay off. No need of the load FLV button<br><br>&lt;?xml version="1.0" encoding="utf-8"?&gt;<br>&lt;mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="vertical" creationComplete="setSource()"&gt;<br><br><br><br>&lt;mx:Script&gt;<br>	&lt;![CDATA[<br>	<br>	/** Cato Paus Skrede<br>&#160;&#160;UmbrellaCorp DA **/<br>	<br>	[Bindable]<br>	private var movie:String;<br>	<br>	private function setSource():void{<br>&#160;&#160;//movie = "http://stage.orchestra.it/x.flv"; // some dud dancing 16 min sample.<br>&#160;&#160;movie = "http://stage.orchestra.it/golfers.flv";<br>	<br>&#160;&#160;// the url of the FLV ver. 1.1 do contains the metaData for totalTime FLV ver 1.0 do's NOT.<br>&#160;&#160;/* if you type the url into VideoDisplay.source and use autoplay it starts to play in design mode<br>&#160;&#160;&#160;&#160; that's realy annoying.*/<br><br>	}<br><br>	private function formatPositionToolTip(value:int):String{<br>&#160;&#160;<br>&#160;&#160;//&#160;&#160;do only handle minuts.<br>&#160;&#160;<br>&#160;&#160;var result:String = (value % 60).toString();<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;if (result.length == 1){<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;result = Math.floor(value / 60).toString() + ":0" + result;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;} else {<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;result = Math.floor(value / 60).toString() + ":" + result;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;}<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;return result;<br>	}<br><br>	]]&gt;<br>&lt;/mx:Script&gt;<br>	<br>	&lt;mx:Panel layout="absolute" width="400" height="400"<br>&#160;&#160;headerHeight="0" cornerRadius="2" borderStyle="solid" borderThickness="0"<br>&#160;&#160;borderThicknessBottom="0" borderThicknessLeft="0" borderThicknessRight="0"<br>&#160;&#160;borderThicknessTop="0" backgroundColor="#000000"&gt;<br>&#160;&#160;<br>&#160;&#160;&lt;mx:VideoDisplay id="videoDisplay" autoPlay="false"&#160;&#160;source="{movie}" width="380" height="310" left="10" top="10"/&gt;<br><br>&#160;&#160;&lt;mx:ProgressBar id="loadProgress" label="" mode="event" barColor="#00ff00"<br>&#160;&#160;	minimum="0" maximum="100" y="336" height="20"<br>&#160;&#160;	source="{videoDisplay}" trackHeight="10" trackColors="[#AAff10, #e6eeee]" left="10" right="10"/&gt;<br><br>&#160;&#160;&lt;mx:HSlider id="position" height="5"&#160;&#160;	<br>&#160;&#160;	dataTipFormatFunction="formatPositionToolTip"<br>&#160;&#160;	thumbPress="videoDisplay.pause()" slideDuration="0"<br>&#160;&#160;	thumbRelease="videoDisplay.play()"<br>&#160;&#160;	change="videoDisplay.playheadTime = position.value"<br>&#160;&#160;	value="{videoDisplay.playheadTime}"<br>&#160;&#160;	minimum="0" maximum="{videoDisplay.totalTime}" left="4" right="4" bottom="62"/&gt;	<br><br>&#160;&#160;&lt;mx:Button label="Play" click="videoDisplay.play();" cornerRadius="0" bottom="10" x="10"/&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;mx:Button label="Pause" click="videoDisplay.pause();" cornerRadius="0" bottom="10" left="69"/&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;mx:Button label="Stop" click="videoDisplay.stop();" cornerRadius="0" left="138" bottom="10"/&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;mx:HSlider id="volume" snapInterval="0.01" value="0.5" maximum="1.0" <br>&#160;&#160;	change="videoDisplay.volume = volume.value;"&#160;&#160;<br>&#160;&#160;	liveDragging="true" height="20" left="236" bottom="20" width="154"/&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;mx:Label styleName="playheadTimeLabel"<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;	text="{formatPositionToolTip(videoDisplay.playheadTime)} - {formatPositi]]></description> 
+		<pubDate>Thu, 25 Jan 2007 23:45:12 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[I need a login/authentication component for Flex 2]]></title>
+		<author>msplant</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2421</link>
+		<description><![CDATA[REPLY to Anthony AKA Omnipitence : I love them both, like the effects you used.&#160;&#160;I have begun building my first sight whic I want to integrate a blog/forum with login to post, etc.&#160;&#160;I would love to see your source files!!&#160;&#160;I am using a php class that handles all of my logins but now after reading through everyones posts<br><br>THANKS EVERYONE BY THE WAY!!!!!<br><br>I think I could wing getting everything working the way I want it.&#160;&#160;But I would love to get involved in a community as I am still learning and need help sometimes.&#160;&#160;I haven't had any formal training so the beginning is going kinda slow.&#160;&#160;Anyway shoot me a email at msplant@gmail.com&#160;&#160;Thanks for the help I cant wait to get it running - real world!!]]></description> 
+		<pubDate>Thu, 25 Jan 2007 17:50:22 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[I need a login/authentication component for Flex 2]]></title>
+		<author>nodirbek13</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2421</link>
+		<description><![CDATA[no problem with PHP : Hi Mike,<br>Try as follows:<br>1.) IN FLEX: SEND the HTTPService data to your xxx.php script<br>2.) IN xxx.php: fetch the data ex:<br>$user = mysql_escape_string($_POST['user']);<br>$pass = mysql_escape_string($_POST['pass']);<br><br>3.) IN xxx.php perform the check agains DB or anything else. If the user is okay then return the XML with a loggedAs variable and the authorised users login as a value. Otherwise loggedAs='n/a'. Do not forget to create a php session and save the loggedAs ($_SESSION['loggedAs'] = $loggedUserName;)<br>example of the response XML:<br><br>&lt;loginInfo&gt;<br>	&lt;user&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;loggedAs&gt;n/a&lt;/loggedAs&gt;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;login&gt;n/a&lt;/login&gt;<br>&lt;/user&gt;<br>&lt;/loginInfo&gt;<br><br>4.) IN FLEX: Get the result back and see if loggedAs is 'n/a' or users name.<br>ex:<br>&#160;&#160;	function fn_getLoginResult():void{<br>&#160;&#160;&#160;&#160;if (loginSender.lastResult.loginInfo.user.loggedAs =='n/a'){<br>&#160;&#160;&#160;&#160;label1.text = 'Wrong login/password!';<br>&#160;&#160;&#160;&#160;} else <br>&#160;&#160;&#160;&#160;if (loginSender.lastResult.loginInfo.user.loggedAs !=''){<br>&#160;&#160;&#160;&#160;	currentState="user_page";&#160;&#160;&#160;&#160;&#160;&#160;	<br>&#160;&#160;&#160;&#160;}<br><br>IMPORTANT!!!: in my case I always kept the sensitive data on the server, so before returning the data to the user, all server side scripts check if there is a session created. Otherwise return an XML with an alert/warning. This way, no matter how the user hacks the SWF file, if he is not autorized he will not get the data from the server.<br>I still have a lot to learn, but I will be glad if it helps.<br>Nad]]></description> 
+		<pubDate>Wed, 24 Jan 2007 12:27:08 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Sly as a Fox: Retrieving browser and server &quot;State&quot; information in Flex  without AJAX or using the WRAPPER.]]></title>
+		<author>trent_sc</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2001</link>
+		<description><![CDATA[Logging Out From Flex : Well darn, ..not what I was hoping for.&#160;&#160;To be completely clear I'm using dataservices and when the user leaves the page that particular instance is left "hanging".&#160;&#160;I get the feeling this is just like old times creating a class in C++ and never calling your destructor when you're done with that class,... a lot of waisted space.&#160;&#160;Like you said I will either have to use javascript or every so often check to see who is still available (polling I guess, which i dont like). <br>Thanks for the help DannyZ]]></description> 
+		<pubDate>Mon, 22 Jan 2007 05:30:36 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[I need a login/authentication component for Flex 2]]></title>
+		<author>Omnipitence</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2421</link>
+		<description><![CDATA[PHP/Login : Hi Mike,<br>I had some trouble with this a while ago until i got my head around it.. I have two versions that you can check out and if you think they are what your looking for i will send you over the relevent mxml component.. both use HTTPService calls to send information to php files for logging the user in and returning the relevent data to the flex programme.. visit <br>www.betadesigns.co.uk/Examples/&#160;&#160;&#160;&#160;then choose either BikesNTrikes for a version without the option to register a user (can login as Guest / Guest to view admin centre with limited access) or choose IJKGD to see a version with user registration (IJKGD is currently underconstruction but the login and registrations are working so you can test them out if you like)..<br>Hope one of them is what your looking for<br>Anthony]]></description> 
+		<pubDate>Mon, 22 Jan 2007 23:15:05 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Creating a hand cursor over a component]]></title>
+		<author>thx1138</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=1687</link>
+		<description><![CDATA[Do not need to specify mouseChildren="false" : To show a hand cursor on almost all other UI components you do not have to specify mouseChildren="false".]]></description> 
+		<pubDate>Mon, 22 Jan 2007 20:59:30 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[I need a login/authentication component for Flex 2]]></title>
+		<author>DannyZ</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2421</link>
+		<description><![CDATA[Try using HTTP service to access the "browser's session scope" : The "trick" with most user log in sceneros is to use a "session" var to maintain scope.&#160;&#160; Problem is you can't generate one from a webservice or remoting call,&#160;&#160;you need to use a HTTP service call so the server will respond as if the call came from a web browser form.
+<br>Review this post for more details:
+<br>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;postId=2001&amp;productId=2
+<br><br>]]></description> 
+		<pubDate>Sun, 21 Jan 2007 14:45:22 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Sly as a Fox: Retrieving browser and server &quot;State&quot; information in Flex  without AJAX or using the WRAPPER.]]></title>
+		<author>DannyZ</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2001</link>
+		<description><![CDATA[Logging Out From Flex. : As far as I know, Handling a log out scenerio from flex when the user simply closes the browser window, would be fairly impossible to manage within FLEX&#160;&#160;by itself.&#160;&#160;Once you close the browser, Flex is no-longer running, thus it can not handle events.&#160;&#160;&#160;&#160;<br>However, logout will automatically ocur. Coldfusion Session vars are defined with a timeout.&#160;&#160;Once the timeout is reached the session var is ended, and the user's session scope is terminated, thereby logging out the user.&#160;&#160;&#160;&#160;&#160;&#160;<br>
+<br>Another common scenero is the user browsing away (but not closing the browser) from the page.&#160;&#160;&#160;&#160;Here one could use javascript and flex or ajax to make a script call to a logout method.&#160;&#160;
+<br>
+<br>Logging out a session from within Flex ;&#160;&#160;just as the session vars are present within the browser scope,&#160;&#160;a logout from flex will also require a http service call to a logout method to kill the session vars.&#160;&#160;&#160;&#160;<br>
+<br><br><br><br><br><br><br>]]></description> 
+		<pubDate>Sun, 21 Jan 2007 14:38:40 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Playing an external MP3 file using MXML?]]></title>
+		<author>Andrew Lattimore</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=501</link>
+		<description><![CDATA[Multiple Errors in Code : There are multiple errors in this code.&#160;&#160;I'm trying to debug this now and am finding errors on almost every line.&#160;&#160;Many of the errors center around the extensive use of semicolons (;).&#160;&#160;More to follow...]]></description> 
+		<pubDate>Fri, 19 Jan 2007 15:48:13 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[I need a login/authentication component for Flex 2]]></title>
+		<author>msplant</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=2421</link>
+		<description><![CDATA[Can I use my PHP script? : I am just having a hard time integrating the logic? I have a good login script for php but how could i use that accurately? Can I read Session variables from flash? java?]]></description> 
+		<pubDate>Fri, 19 Jan 2007 11:18:20 GMT</pubDate>
+		</item>
+
+		<item>
+		<title><![CDATA[Automatic user log out]]></title>
+		<author>Richard Braxton</author>
+		<link>http://www.adobe.com/cfusion/communityengine/index.cfm?event=showdetails&amp;productId=2&amp;postId=322</link>
+		<description><![CDATA[Excellent - A little help with the timing : You may find you need the events to be active only after the user is authenticated.&#160;&#160;If the timer is active at the onset, then it may trigger a logout even if not logged in.
+<br>
+<br>Depending on your application, you may wish to add and remove listeners to your login and logout events.]]></description> 
+		<pubDate>Thu, 18 Jan 2007 11:56:16 GMT</pubDate>
+		</item>
+
+</channel>
+</rss>
